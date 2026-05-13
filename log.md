@@ -10,6 +10,20 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 按 Karpathy LLM Wiki 模式创建目录结构。
 
+## [2026-05-13] ingest | 梁宁·增长思维30讲
+
+来源：/Users/zhuqichen/Documents/WorkSpace/dedao/dedao-downloads/course/梁宁·增长思维30讲/MD/（37 个 MD 文件）
+
+创建 8 个概念词条页面：
+- 梁宁-增长思维30讲（总览）
+- 玩家地图与增长生态位
+- 破局点
+- 增强回路与调节回路
+- 闪电式扩张
+- 组织成长五阶段
+- 战略支点与战略杠杆
+- 一横一纵增长框架
+
 ## [2026-05-13] ingest | 梁宁·产品思维30讲
 
 来源：/Users/zhuqichen/Documents/WorkSpace/dedao/dedao-downloads/course/梁宁·产品思维30讲/MD/（41 个 MD 文件）
