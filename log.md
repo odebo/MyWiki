@@ -39,6 +39,19 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 罗胖60秒-表达与沟通
 - 罗胖60秒-组织与领导力
 
+## [2026-05-21] ingest | claude-obsidian + Karpathy LLM Wiki 工具链
+
+来源：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+      https://github.com/AgriciDaniel/claude-obsidian
+
+创建 6 个页面：
+- LLM-Wiki模式（核心概念）
+- Hot-Cache（跨 session 缓存机制）
+- Wiki三层目录结构（concepts/entities/sources 分层）
+- MCP文件系统集成（Claude 直接读写 vault）
+- claude-obsidian（来源摘要，5.3k stars 实现）
+- wiki迁移方案（当前 wiki 的迁移规划）
+
 ## [2026-05-13] ingest | 梁宁·产品思维30讲
 
 来源：/Users/zhuqichen/Documents/WorkSpace/dedao/dedao-downloads/course/梁宁·产品思维30讲/MD/（41 个 MD 文件）

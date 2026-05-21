@@ -45,8 +45,19 @@
 
 ---
 
+## LLM Wiki 工具链
+
+- [[LLM-Wiki模式]] — Karpathy 提出的持久化知识库范式；LLM Wiki vs RAG 的根本差异
+- [[Hot-Cache]] — `hot.md` 跨 session 上下文缓存；消除冷启动的关键机制
+- [[Wiki三层目录结构]] — concepts/entities/sources 分层策略；适用于 30+ 页规模
+- [[MCP文件系统集成]] — Claude Code 直接读写 Obsidian vault；两种接入方式
+- [[claude-obsidian]] — 5.3k stars 的完整实现；命令速查与工作流
+- [[wiki迁移方案]] — 当前 wiki 迁移到三层结构的完整步骤
+
+---
+
 ## 统计
 
-- 页面数：26
+- 页面数：32
 - 原始资料数：0（原始文件在本地课程目录，未复制）
-- 最后更新：2026-05-13
+- 最后更新：2026-05-21
