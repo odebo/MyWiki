@@ -1,4 +1,38 @@
-# Wiki Schema
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+这是一个个人知识库（基于 Karpathy LLM Wiki 模式）。以下是完整操作规则。
+
+## 常用命令
+
+```bash
+# 同步（操作前拉取，操作后推送）
+git pull
+git add -A && git commit -m "wiki: <简述>" && git push
+
+# 查看最近操作记录
+grep "^## \[" log.md | tail -5
+
+# 统计页面数
+ls concepts/ sources/ entities/ | grep -c ".md"
+```
+
+## 仓库结构
+
+这不是代码项目，而是 markdown 知识库。三层目录 + 四个根目录元文件：
+
+```
+concepts/   # 抽象概念页（可跨来源复用的知识单元）
+entities/   # 人物 / 组织 / 产品实体页
+sources/    # 来源摘要页（每个原始资料对应一页）
+hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
+index.md    # 全量目录，按三层分类列出所有页面
+log.md      # 追加写入的操作日志
+raw/        # 原始资料（只读）
+```
+
+---
 
 你维护一个个人知识库。以下是完整规则。
 

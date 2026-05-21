@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "wiki": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/Users/zhuqichen/Documents/WorkSpace/MyWiki"]
+    }
+  }
+}
