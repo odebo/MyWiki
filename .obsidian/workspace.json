@@ -176,8 +176,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "91d52e44816002b2",
+  "active": "d19d1e0999439e95",
   "lastOpenFiles": [
+    "entities/luo-zhenyu.md",
     "sources/li-xiaolai-caifuziyo.md",
     "entities/li-xiaolai.md",
     "concepts/多维竞争.md",
@@ -203,7 +204,6 @@
     "concepts/radical-transparency.md",
     "concepts/meritocracy.md",
     "sources/FirstRound-AI产品定位手册.md",
-    "concepts/AI产品定位.md",
     "未命名.canvas"
   ]
 }

@@ -34,7 +34,7 @@
 
 ## 未解问题
 
-- entities/ 仍需补充：梁宁、罗振宇、Andrej-Karpathy
+- entities/ 仍需补充：梁宁、Andrej-Karpathy
 - Zhihu 文章 https://zhuanlan.zhihu.com/p/2017696237659374146 因 HTTP 403 未完成 ingest，需用户手动粘贴内容
 - index.md 中 sources 页数统计：实际应为 11 页（含本次新增1页），但旧统计为 13 页（含 3 个罗胖60秒 + 1个得到课程 + 3个梁宁 + 1工具 + 1 blog + 1 First Round + 1 新增）——待核实
 
