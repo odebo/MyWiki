@@ -6,7 +6,16 @@
 
 ---
 
-## concepts/（抽象概念，21 页）
+## concepts/（抽象概念，27 页）
+
+### Ray Dalio《原则》
+
+- [[meritocracy]] — 创意择优：让最好的想法赢，而非地位最高的人赢；三前提+制衡机制
+- [[radical-transparency]] — 极度求真与极度透明：桥水信息基础设施；严厉之爱；盲点突破
+- [[five-step-process]] — 5步流程：目标→识别问题→诊断根因→设计方案→执行；常见失败模式
+- [[credibility-weighting]] — 可信度加权决策：按历史准确率分配决策权重；预期价值框架
+- [[pain-reflection-progress]] — 痛苦+反思=进步：进化机制；两个自我的对抗；盲点矩阵
+- [[bridgewater-tools]] — 桥水工具体系：Coach/集点器/棒球卡/问题日志/痛苦按钮/分歧解决器
 
 ### AI 工作方式变革（Ivan Zhao）
 
@@ -47,13 +56,21 @@
 
 ---
 
-## entities/（人物 / 组织 / 产品，0 页）
+## entities/（人物 / 组织 / 产品，1 页）
+
+### 投资人 / 创业者
+
+- [[ray-dalio]] — 桥水创始人；创意择优发明者；《原则》作者；塑造者定义
 
 > 待建：梁宁、罗振宇、Andrej-Karpathy
 
 ---
 
 ## sources/（来源摘要，10 页）
+
+### 书籍
+
+- [[ray-dalio-principles]] — Ray Dalio《原则》：生活原则 + 工作原则 + 桥水工具体系；273页全览
 
 ### 得到课程
 
@@ -86,5 +103,5 @@
 
 ## 统计
 
-- 页面数：37（concepts 24 / entities 0 / sources 12 / 根目录元文件 1）
+- 页面数：45（concepts 27 / entities 1 / sources 13 / 根目录元文件 1）
 - 最后更新：2026-05-22

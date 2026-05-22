@@ -89,3 +89,11 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 峰终定律
 - 上瘾机制
 - 三级火箭
+
+## [2026-05-22] ingest | Ray Dalio《原则（全新增订版）》— 273页全文阅读完成
+
+- 来源：.cc-connect/attachments/144892_原则（全新增订版）_【美】瑞·达利欧.pdf
+- 新建 sources：ray-dalio-principles.md
+- 新建 concepts：meritocracy, radical-transparency, five-step-process, credibility-weighting, pain-reflection-progress, bridgewater-tools（共6页）
+- 新建 entities：ray-dalio.md（首个 entities 页面）
+- 更新：index.md（统计45页），hot.md
