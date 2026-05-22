@@ -12,6 +12,20 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ## [2026-05-22] ingest | 浅田卓《丰田"一页纸"思考术》— 100页全文，创建5个concepts页+1个entities页+1个sources页；新增：TBP/一页纸框架/What-Why-How/两段式问题解决法/零页纸/浅田卓
 
+## [2026-05-22] ingest | 李想·产品实战16讲（得到课程，16讲全文）
+
+创建 8 个页面：
+- concepts/用户价值超越需求 — 核心方法论；用户处境vs需求；用户价值流倒推流程
+- concepts/产品三感 — 安全感/价值感/向往感
+- concepts/增长节奏 — 0→1 vs 1→10两阶段逻辑；SEV教训；必要性原则
+- concepts/复盘方法论 — 先总结优点；对照PEA；Todo落到人；CEO带头
+- concepts/组织产品化 — 把组织当产品；PEA评审；产品四步法；成人人格
+- concepts/原子级经营 — 原子级拆分；最佳实践提炼；不刷存在感+NPS
+- entities/li-xiang — 李想；理想汽车；成长驱动；SEV教训；问界M7危机
+- sources/li-xiang-chanpin-shizhan-16jiang — 16讲完整速览+案例索引
+
+---
+
 ## [2026-05-22] ingest | First Round — AI 产品定位手册
 
 来源：https://review.firstround.com/positioning-playbook-for-ai-products/
