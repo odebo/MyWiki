@@ -6,6 +6,16 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-22] ingest | First Round — AI 产品定位手册
+
+来源：https://review.firstround.com/positioning-playbook-for-ai-products/
+
+创建 2 个页面：
+- concepts/AI产品定位 — 三步框架（有主见POV / 清晰Positioning / 设计战略）
+- sources/FirstRound-AI产品定位手册 — 来源摘要页
+
+---
+
 ## [2026-05-22] ingest | Ivan Zhao — Steam, Steel, and Infinite Minds
 
 来源：https://www.notion.com/blog/steam-steel-and-infinite-minds-ai

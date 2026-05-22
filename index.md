@@ -12,6 +12,7 @@
 
 - [[AI作为奇迹材料]] — 蒸汽机vs钢铁隐喻；个人/组织/经济三层变革；佛罗伦萨到东京
 - [[无限心灵管理者]] — 工程师从独立贡献者→多agent编排者；30-40×生产力；上下文碎片化瓶颈
+- [[AI产品定位]] — “AI驱动”不是定位；三步框架（有主见POV/清晰Positioning/设计战略）；AI放大平常性
 
 ### LLM Wiki 工具链
 
@@ -77,9 +78,13 @@
 
 - [[Ivan-Zhao-AI奇迹材料]] — AI=奇迹材料；三层变革框架；钢铁/蒸汽机隐喻；700+ agent实践
 
+### First Round Review
+
+- [[FirstRound-AI产品定位手册]] — AI能力同质化时希品牌如何定位；Cursor/Clay/Liquid Death案例
+
 ---
 
 ## 统计
 
-- 页面数：35（concepts 23 / entities 0 / sources 11 / 根目录元文件 1）
+- 页面数：37（concepts 24 / entities 0 / sources 12 / 根目录元文件 1）
 - 最后更新：2026-05-22
