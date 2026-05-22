@@ -6,6 +6,17 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-22] ingest | Ivan Zhao — Steam, Steel, and Infinite Minds
+
+来源：https://www.notion.com/blog/steam-steel-and-infinite-minds-ai
+
+创建 3 个页面：
+- concepts/AI作为奇迹材料 — 三层变革框架（个人/组织/经济），钢铁vs蒸汽机隐喻
+- concepts/无限心灵管理者 — agent编排者转型，30-40×工程师案例
+- sources/Ivan-Zhao-AI奇迹材料 — 来源摘要页
+
+---
+
 ## [2026-05-02] init | 知识库初始化
 
 按 Karpathy LLM Wiki 模式创建目录结构。

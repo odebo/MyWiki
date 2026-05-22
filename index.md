@@ -8,6 +8,11 @@
 
 ## concepts/（抽象概念，21 页）
 
+### AI 工作方式变革（Ivan Zhao）
+
+- [[AI作为奇迹材料]] — 蒸汽机vs钢铁隐喻；个人/组织/经济三层变革；佛罗伦萨到东京
+- [[无限心灵管理者]] — 工程师从独立贡献者→多agent编排者；30-40×生产力；上下文碎片化瓶颈
+
 ### LLM Wiki 工具链
 
 - [[LLM-Wiki模式]] — Karpathy 提出的持久化知识库范式；LLM Wiki vs RAG 的根本差异
@@ -68,9 +73,13 @@
 
 - [[claude-obsidian]] — 5.3k stars；Obsidian+Claude Code 的 LLM Wiki 完整实现
 
+### Notion Blog
+
+- [[Ivan-Zhao-AI奇迹材料]] — AI=奇迹材料；三层变革框架；钢铁/蒸汽机隐喻；700+ agent实践
+
 ---
 
 ## 统计
 
-- 页面数：32（concepts 21 / entities 0 / sources 10 / 根目录元文件 1）
-- 最后更新：2026-05-21
+- 页面数：35（concepts 23 / entities 0 / sources 11 / 根目录元文件 1）
+- 最后更新：2026-05-22
