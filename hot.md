@@ -6,25 +6,36 @@
 
 ## 最近摄入（2026-05-22）
 
-- **Ray Dalio《原则》**（PDF，273页全文）— 创建 7 个新页面：1 sources + 6 concepts + 1 entities
+- **李笑来《通往财富自由之路》**（得到课程，52个概念全文）— 创建 9 个新页面：7 concepts + 1 entities + 1 sources
+  - 核心概念：财富自由（时间自主权）、注意力>时间>金钱、成长率复利、价值观与刚需、时间重复销售、资本三要素+定投、多维竞争
+  - 新增 entities/li-xiaolai.md（李笑来）
+
+- **浅田卓《丰田"一页纸"思考术》**（PDF，100页全文）— 创建 7 个新页面：5 concepts + 1 entities + 1 sources
+  - 核心概念：TBP八大步骤、一页纸框架（三大限制/六大理想限制/三色笔）、What/Why/How三点疑问、两段式问题解决法（事前/事后合理）、零页纸
+  - 新增 entities/asada-taku.md（浅田卓）
+
+- **Ray Dalio《原则》**（PDF，273页全文）— 7个新页面：1 sources + 6 concepts + 1 entities
   - 核心概念：创意择优、极度透明、5步流程、可信度加权、痛苦+反思=进步、桥水工具体系
-  - 首次建立了 entities/ 目录（ray-dalio.md）
 
 ## 活跃话题
 
-- Ray Dalio 原则体系（刚完成 ingest，知识密度高）
-- LLM Wiki 工具链（Karpathy 模式 + claude-obsidian 实现）
-- Obsidian + VSCode 集成最佳实践
+- 李笑来财富自由体系（刚完成 ingest，52个概念）
+- 注意力管理 vs 时间管理的根本差异（李笑来 vs 传统时间管理学）
+- 复利公式 (1+r)^n 贯穿成长和投资两条线
+- 价值观→刚需→执行力的驱动链条
+- 时间重复销售与 AI 时代工程师转型（与无限心灵管理者概念强关联）
+- 丰田"一页纸"框架体系
+- 个人超级 Agent 建设（Asrocky01 记忆层 + wiki-bridge 已完成实施）
+- Ray Dalio 原则体系
 
 ## 未解问题
 
 - entities/ 仍需补充：梁宁、罗振宇、Andrej-Karpathy
 - Zhihu 文章 https://zhuanlan.zhihu.com/p/2017696237659374146 因 HTTP 403 未完成 ingest，需用户手动粘贴内容
-- MCP 文件系统集成尚未实际配置，只有文档
-- CLAUDE.md 尚未更新读取顺序规则（hot.md 优先于 index.md）
+- index.md 中 sources 页数统计：实际应为 11 页（含本次新增1页），但旧统计为 13 页（含 3 个罗胖60秒 + 1个得到课程 + 3个梁宁 + 1工具 + 1 blog + 1 First Round + 1 新增）——待核实
 
 ## 知识库状态
 
-- 总页面：45 页
-- 结构：三层目录（concepts 27页 / entities 1页 / sources 13页）+ 根目录元文件
-- 最近 commit：wiki ingest Ray Dalio《原则》
+- 总页面：61 页
+- 结构：三层目录（concepts 39页 / entities 3页 / sources 12页）+ 根目录元文件
+- 最近 commit：wiki ingest 李笑来《通往财富自由之路》（52个概念，9个新页面）

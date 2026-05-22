@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-22] ingest | 浅田卓《丰田"一页纸"思考术》— 100页全文，创建5个concepts页+1个entities页+1个sources页；新增：TBP/一页纸框架/What-Why-How/两段式问题解决法/零页纸/浅田卓
+
 ## [2026-05-22] ingest | First Round — AI 产品定位手册
 
 来源：https://review.firstround.com/positioning-playbook-for-ai-products/
@@ -97,3 +99,9 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 新建 concepts：meritocracy, radical-transparency, five-step-process, credibility-weighting, pain-reflection-progress, bridgewater-tools（共6页）
 - 新建 entities：ray-dalio.md（首个 entities 页面）
 - 更新：index.md（统计45页），hot.md
+
+## [2026-05-22] Ingest 李笑来《通往财富自由之路》（得到课程，52个概念）
+- 新增 7 个 concept 页面：财富自由、注意力管理、成长率与复利、价值观与刚需、时间重复销售、李笑来投资原则、多维竞争
+- 新增 1 个 entity 页面：li-xiaolai
+- 新增 1 个 source 页面：li-xiaolai-caifuziyo
+- 更新 index.md（+7 concepts, +1 entity, +1 source）
