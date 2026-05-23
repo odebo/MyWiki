@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "right": {
     "id": "cc61b6c22feeaa36",
@@ -176,8 +176,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d19d1e0999439e95",
+  "active": "91d52e44816002b2",
   "lastOpenFiles": [
+    "sources/人类登月简史.md",
+    "concepts/新太空竞赛.md",
+    "concepts/使命驱动的大工程.md",
+    "concepts/阿波罗13号危机创新.md",
+    "concepts/渐进式技术攀登.md",
+    "sources/toyota-ichimai-shiko.md",
+    "sources/ray-dalio-principles.md",
+    "sources/li-xiaolai-caifuziyo.md",
     "sources/li-xiang-chanpin-shizhan-16jiang.md",
     "entities/li-xiang.md",
     "concepts/原子级经营.md",
@@ -187,7 +195,6 @@
     "concepts/产品三感.md",
     "concepts/用户价值超越需求.md",
     "entities/luo-zhenyu.md",
-    "sources/li-xiaolai-caifuziyo.md",
     "entities/li-xiaolai.md",
     "concepts/多维竞争.md",
     "concepts/李笑来投资原则.md",
@@ -196,14 +203,7 @@
     "concepts/成长率与复利.md",
     "concepts/注意力管理.md",
     "concepts/财富自由.md",
-    "sources/toyota-ichimai-shiko.md",
     "entities/asada-taku.md",
-    "concepts/zero-page.md",
-    "concepts/two-stage-problem-solving.md",
-    "concepts/what-why-how.md",
-    "concepts/ichimai-framework.md",
-    "concepts/toyota-business-practice.md",
-    "sources/ray-dalio-principles.md",
     "未命名.canvas"
   ]
 }
