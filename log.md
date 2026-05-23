@@ -127,3 +127,5 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 新增 1 个 entity 页面：li-xiaolai
 - 新增 1 个 source 页面：li-xiaolai-caifuziyo
 - 更新 index.md（+7 concepts, +1 entity, +1 source）
+
+## [2026-05-23] ingest | wiki-book《故事演讲力：商业演讲中的故事策略》（赵金星，156页全量）— 新增 9 页：concepts/故事演讲力-神经科学与决策机制 + concepts/故事思维 + concepts/故事结构工具 + concepts/故事演讲设计系统 + concepts/故事库建设 + concepts/个人品牌故事 + concepts/故事的边界与真诚 + entities/zhao-jinxing + sources/故事演讲力；wiki 81→90页
