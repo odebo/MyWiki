@@ -1,7 +1,7 @@
 ---
 updated: 2026-05-22
 sources: [.cc-connect/attachments/144892_原则（全新增订版）_【美】瑞·达利欧.pdf]
-related: [[ray-dalio-principles]], [[meritocracy]], [[radical-transparency]], [[bridgewater-tools]]
+related: [[Ray-Dalio-原则]], [[meritocracy]], [[radical-transparency]], [[bridgewater-tools]]
 ---
 
 # Ray Dalio（瑞·达利欧）
@@ -77,7 +77,7 @@ related: [[ray-dalio-principles]], [[meritocracy]], [[radical-transparency]], [[
 
 ## 核心概念链接
 
-- [[ray-dalio-principles]] — 完整书籍摘要
+- [[Ray-Dalio-原则]] — 完整书籍摘要
 - [[meritocracy]] — 创意择优
 - [[radical-transparency]] — 极度求真/透明
 - [[pain-reflection-progress]] — 痛苦+反思=进步

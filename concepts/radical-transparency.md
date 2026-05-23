@@ -1,7 +1,7 @@
 ---
 updated: 2026-05-22
 sources: [.cc-connect/attachments/144892_原则（全新增订版）_【美】瑞·达利欧.pdf]
-related: [[ray-dalio-principles]], [[meritocracy]], [[ray-dalio]]
+related: [[Ray-Dalio-原则]], [[meritocracy]], [[ray-dalio]]
 ---
 
 # 极度求真与极度透明

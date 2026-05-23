@@ -1,7 +1,7 @@
 ---
 updated: 2026-05-22
 sources: [.cc-connect/attachments/144892_原则（全新增订版）_【美】瑞·达利欧.pdf]
-related: [[ray-dalio-principles]], [[meritocracy]], [[bridgewater-tools]], [[ray-dalio]]
+related: [[Ray-Dalio-原则]], [[meritocracy]], [[bridgewater-tools]], [[ray-dalio]]
 ---
 
 # 可信度加权决策（Credibility-Weighted Decision Making）
