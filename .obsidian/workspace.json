@@ -176,8 +176,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "91d52e44816002b2",
+  "active": "d19d1e0999439e95",
   "lastOpenFiles": [
+    "sources/费曼思考法.md",
+    "entities/richard-feynman.md",
+    "concepts/思想层次.md",
+    "concepts/门徒效应.md",
+    "concepts/内在动机.md",
+    "concepts/费曼学习法.md",
     "sources/李笑来-通往财富自由之路.md",
     "sources/李想-产品实战16讲.md",
     "sources/Ray-Dalio-原则.md",
@@ -187,10 +193,10 @@
     "concepts/使命驱动的大工程.md",
     "concepts/阿波罗13号危机创新.md",
     "concepts/渐进式技术攀登.md",
-    "sources/丰田一页纸思考术.md",
-    "sources/Ray-Dalio-原则.md",
-    "sources/李笑来-通往财富自由之路.md",
-    "sources/李想-产品实战16讲.md",
+    "sources/toyota-ichimai-shiko.md",
+    "sources/ray-dalio-principles.md",
+    "sources/li-xiaolai-caifuziyo.md",
+    "sources/li-xiang-chanpin-shizhan-16jiang.md",
     "entities/li-xiang.md",
     "concepts/原子级经营.md",
     "concepts/组织产品化.md",
@@ -198,12 +204,6 @@
     "concepts/增长节奏.md",
     "concepts/产品三感.md",
     "concepts/用户价值超越需求.md",
-    "entities/luo-zhenyu.md",
-    "entities/li-xiaolai.md",
-    "concepts/多维竞争.md",
-    "concepts/李笑来投资原则.md",
-    "concepts/时间重复销售.md",
-    "concepts/价值观与刚需.md",
     "未命名.canvas"
   ]
 }

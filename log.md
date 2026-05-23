@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-23] ingest | wiki-book《费曼思考法：5步成为学习高手》（彼得·霍林斯，PDF 47页全量）— 新增 6 页：concepts/费曼学习法 + concepts/内在动机 + concepts/门徒效应 + concepts/思想层次 + entities/richard-feynman + sources/费曼思考法；wiki 75→81页
+
 ## [2026-05-23] ingest | wiki-book《人类登月简史》（张天光，142页全量）— 新增 5 页：concepts/渐进式技术攀登 + concepts/阿波罗13号危机创新 + concepts/使命驱动的大工程 + concepts/新太空竞赛 + sources/人类登月简史；wiki 70→75页
 
 ## [2026-05-22] ingest | 新增 entities/luo-zhenyu.md（罗振宇）— 基本信息、思想风格、代表性洞见、与得到关系
