@@ -131,3 +131,15 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 ## [2026-05-23] ingest | wiki-book《故事演讲力：商业演讲中的故事策略》（赵金星，156页全量）— 新增 9 页：concepts/故事演讲力-神经科学与决策机制 + concepts/故事思维 + concepts/故事结构工具 + concepts/故事演讲设计系统 + concepts/故事库建设 + concepts/个人品牌故事 + concepts/故事的边界与真诚 + entities/zhao-jinxing + sources/故事演讲力；wiki 81→90页
 
 ## [2026-05-23] ingest | wiki-book《The Founder's Playbook: Building an AI-Native Startup》（Anthropic，36页全量）— 新增 5 页（concepts 4 + source 1）；wiki 90→95页
+
+## [2026-05-23] wiki ingest《清晰思考》（98页全文，7个新页面）
+
+- 新增 concepts/清晰思考-四种默认值.md
+- 新增 concepts/清晰思考-势能积累.md
+- 新增 concepts/清晰思考-管控弱点.md
+- 新增 concepts/清晰思考-决策框架.md
+- 新增 concepts/清晰思考-想要重要的东西.md
+- 新增 entities/shane-parrish.md
+- 新增 sources/清晰思考.md
+- 更新 index.md（+新章节 + entities + sources）
+- 更新 hot.md
