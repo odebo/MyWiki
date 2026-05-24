@@ -11,10 +11,14 @@
             "id": "d19d1e0999439e95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "sources/罗胖60秒十年合集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "罗胖60秒十年合集"
             }
           }
         ]
@@ -178,6 +182,13 @@
   },
   "active": "d19d1e0999439e95",
   "lastOpenFiles": [
+    "sources/认知破局.md",
+    "entities/liu-ying.md",
+    "concepts/认知破局-成长硬件系统.md",
+    "concepts/认知破局-元认知与知行合一.md",
+    "concepts/认知破局-逆向与交叉思维.md",
+    "concepts/认知破局-突破认知的方法论.md",
+    "concepts/认知破局-认知局限识别.md",
     "concepts/爆款文案-变现.md",
     "concepts/爆款文案-故事.md",
     "concepts/爆款文案-金句.md",
@@ -197,13 +208,6 @@
     "concepts/AI创业护城河.md",
     "concepts/创始人角色演进.md",
     "concepts/AI时代创业陷阱.md",
-    "concepts/AI原生创业生命周期.md",
-    "sources/故事演讲力.md",
-    "entities/zhao-jinxing.md",
-    "concepts/故事的边界与真诚.md",
-    "concepts/个人品牌故事.md",
-    "concepts/故事库建设.md",
-    "concepts/故事演讲设计系统.md",
     "未命名.canvas"
   ]
 }
