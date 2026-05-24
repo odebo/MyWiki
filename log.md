@@ -8,6 +8,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ## [2026-05-24] ingest | wiki-book《战略三环：规划、解码、执行》（王钺，PDF 148页全量）— 新增 7 页：concepts/战略三环PDE框架 + 战略解码与必赢之仗 + 战略执行-组织人才文化 + 战略领导力 + 市场竞争分析框架 + entities/wang-yue + sources/战略三环；wiki 118→125页
 
+## [2026-05-24] ingest | wiki-book《象与骑象人：幸福的假设》（乔纳森·海特，PDF 131页全量）— 新增 8 页：concepts/象与骑象人心理机制 + 幸福假设框架 + 依恋与爱的心理 + 苦难的价值 + 道德心理与美德 + 神圣感与人生意义 + entities/jonathan-haidt + sources/象与骑象人；wiki 131→139页
+
 ## [2026-05-24] ingest | wiki-book《讲故事：如何有效说服他人》（徐云松，PDF 126页全量）— 新增 6 页：concepts/讲故事说服逻辑链 + 故事受众分析 + 故事心理说服技法 + 好故事构建要素 + entities/xu-yunsong + sources/讲故事-如何有效说服他人；wiki 125→131页
 
 ## [2026-05-24] ingest | wiki-book《爆款文案变现》（吕白，PDF 98页全量）— 新增 8 页：concepts/爆款文案-选题 + 标题 + 结构 + 金句 + 故事 + 变现 + entities/lv-bai + sources/爆款文案变现；wiki 102→110页
