@@ -147,3 +147,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 新增 sources/清晰思考.md
 - 更新 index.md（+新章节 + entities + sources）
 - 更新 hot.md
+
+## [2026-05-24] ingest | 微信公众号AI科技类爆款写作方法论（web research + 原文解读SKILL.md更新）— 新增 1 页：concepts/wechat-ai-tech-writing；wiki 117→118页
+
+- 新增 concepts/wechat-ai-tech-writing.md：7种爆款标题公式+4条自检；5种开头模式（禁止本文介绍）；5条反AI味写作原则（先判断/用比喻/反常识/钩子/行动结尾）；移动端排版规范；与通用爆款文案差异对比
+- 同步更新 .claude/skills/原文解读/SKILL.md（移到项目目录 + 注入上述方法论）
