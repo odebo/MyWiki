@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-25] ingest | wiki-book《刻意练习》（K. Anders Ericsson，PDF 204页全量）— 新增 9 页：concepts/刻意练习-核心定义与特征 + 刻意练习-心理表征 + 刻意练习-大脑可塑性 + 刻意练习-动机与持续性 + 刻意练习-天才神话破解 + 刻意练习-应用框架 + 刻意练习-天才培养路径 + entities/anders-ericsson + sources/刻意练习；wiki 179→188页
+
 ## [2026-05-25] ingest | wiki-book《黑天鹅》（纳西姆·尼古拉斯·塔勒布，PDF 194页全量）— 新增 8 页：concepts/黑天鹅-核心框架 + 黑天鹅-认知偏差体系 + 黑天鹅-沉默的证据 + 黑天鹅-预测失败 + 黑天鹅-应对策略 + 黑天鹅-钟形曲线谬误 + entities/nassim-taleb + sources/黑天鹅；wiki 162→170页
 
 ## [2026-05-24] ingest | wiki-book《战略三环：规划、解码、执行》（王钺，PDF 148页全量）— 新增 7 页：concepts/战略三环PDE框架 + 战略解码与必赢之仗 + 战略执行-组织人才文化 + 战略领导力 + 市场竞争分析框架 + entities/wang-yue + sources/战略三环；wiki 118→125页
