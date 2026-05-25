@@ -191,3 +191,9 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 更新：concepts/LLM-Wiki模式.md（补充 Schema 角色、查询输出形式、Memex联系、工具推荐）
 - 更新：index.md（+2页，总计172页）
 
+
+## [2026-05-25] wiki ingest FDE文章（Founder Park · Bob McGrew）
+- 来源：微信公众号 https://mp.weixin.qq.com/s/8oUv5H9qvjpq_-aCiJ9f6A
+- 内容：FDE（Forward-Deployed Engineer）模式完整复盘，Bob McGrew（前Palantir高管/前OpenAI首席研究官）访谈
+- 新页面（2）：concepts/FDE前沿部署工程师模式, sources/FDE-Agent时代PMF
+- 总页面：179（+2）
