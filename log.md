@@ -6,6 +6,14 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-26] ingest | 微信文章《Anthropic PM运行逻辑》（Cat Wu / Lenny's Newsletter解读）— 新增 5 页：concepts/速度引擎-Anthropic模式 + AI时代PM能力体系 + Eval设计-定义成功 + 临时性思维 + sources/Anthropic-PM运行逻辑-Cat-Wu；wiki 222→227页
+
+## [2026-05-25] ingest | wiki-book《什么是战略》（杰克·特劳特，PDF 95页全量）— 新增 3 页：concepts/战略本质-特劳特 + 聚焦法则-字眼 + sources/什么是战略；更新 entities/al-ries-jack-trout；wiki 219→222页
+
+## [2026-05-25] ingest | wiki-book《定位》（艾·里斯/杰克·特劳特，PDF 199页全量）— 新增 6 页：concepts/定位理论 + 心智阶梯 + 跟随者空位策略 + 品牌延伸陷阱 + entities/al-ries-jack-trout + sources/定位；wiki 213→219页
+
+## [2026-05-25] ingest | wiki-book《小米创业思考》（雷军，PDF 199页全量）— 新增 8 页：concepts/风口理论 + 小米四字诀 + 小米铁人三项 + 小米生态链 + 小米效率革命 + 蜕变哲学 + entities/lei-jun + sources/小米创业思考；wiki 205→213页
+
 ## [2026-05-25] ingest | wiki-book《商业的本质》（杰克·韦尔奇，PDF ~100页全量）— 新增 8 页：concepts/4e1p-leadership + vitality-curve + candor-culture + strategy-four-questions + crisis-management-welch + mission-values-behaviors + entities/jack-welch + sources/business-at-its-best；wiki 197→205页
 
 ## [2026-05-25] ingest | wiki-book《腾讯传：1998—2016》（吴晓波，PDF 330页全量）— 新增 9 页：concepts/腾讯-商业模式与虚拟经济 + 腾讯-竞争哲学与开放转型 + 腾讯-产品哲学 + 腾讯-组织进化 + 微信创世纪 + 腾讯-泛娱乐与互联网+战略 + entities/ma-huateng + zhang-xiaolong + sources/腾讯传；wiki 188→197页
