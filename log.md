@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-25] ingest | wiki-book《黑天鹅》（纳西姆·尼古拉斯·塔勒布，PDF 194页全量）— 新增 8 页：concepts/黑天鹅-核心框架 + 黑天鹅-认知偏差体系 + 黑天鹅-沉默的证据 + 黑天鹅-预测失败 + 黑天鹅-应对策略 + 黑天鹅-钟形曲线谬误 + entities/nassim-taleb + sources/黑天鹅；wiki 162→170页
+
 ## [2026-05-24] ingest | wiki-book《战略三环：规划、解码、执行》（王钺，PDF 148页全量）— 新增 7 页：concepts/战略三环PDE框架 + 战略解码与必赢之仗 + 战略执行-组织人才文化 + 战略领导力 + 市场竞争分析框架 + entities/wang-yue + sources/战略三环；wiki 118→125页
 
 ## [2026-05-24] ingest | wiki-book《象与骑象人：幸福的假设》（乔纳森·海特，PDF 131页全量）— 新增 8 页：concepts/象与骑象人心理机制 + 幸福假设框架 + 依恋与爱的心理 + 苦难的价值 + 道德心理与美德 + 神圣感与人生意义 + entities/jonathan-haidt + sources/象与骑象人；wiki 131→139页

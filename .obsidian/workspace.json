@@ -176,8 +176,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d19d1e0999439e95",
+  "active": "91d52e44816002b2",
   "lastOpenFiles": [
+    "sources/黑天鹅.md",
+    "entities/nassim-taleb.md",
+    "concepts/黑天鹅-钟形曲线谬误.md",
+    "concepts/黑天鹅-应对策略.md",
+    "concepts/黑天鹅-预测失败.md",
+    "concepts/黑天鹅-沉默的证据.md",
+    "concepts/黑天鹅-认知偏差体系.md",
+    "concepts/黑天鹅-核心框架.md",
     "entities/peter-thiel.md",
     "sources/从0到1.md",
     "concepts/从0到1-未来观与规划.md",
@@ -196,14 +204,6 @@
     "entities/ye-shengtao.md",
     "concepts/写作教学论.md",
     "concepts/语言习惯与写话.md",
-    "concepts/叶圣陶写作论.md",
-    "sources/所谓会说话，就是会换位思考.md",
-    "entities/caroline-taggart.md",
-    "concepts/换位思考与场合感知.md",
-    "concepts/社交对话核心技法.md",
-    "sources/象与骑象人.md",
-    "entities/jonathan-haidt.md",
-    "concepts/神圣感与人生意义.md",
     "未命名.canvas"
   ]
 }
