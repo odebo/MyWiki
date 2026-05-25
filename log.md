@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-05-25] ingest | wiki-book《商业的本质》（杰克·韦尔奇，PDF ~100页全量）— 新增 8 页：concepts/4e1p-leadership + vitality-curve + candor-culture + strategy-four-questions + crisis-management-welch + mission-values-behaviors + entities/jack-welch + sources/business-at-its-best；wiki 197→205页
+
 ## [2026-05-25] ingest | wiki-book《腾讯传：1998—2016》（吴晓波，PDF 330页全量）— 新增 9 页：concepts/腾讯-商业模式与虚拟经济 + 腾讯-竞争哲学与开放转型 + 腾讯-产品哲学 + 腾讯-组织进化 + 微信创世纪 + 腾讯-泛娱乐与互联网+战略 + entities/ma-huateng + zhang-xiaolong + sources/腾讯传；wiki 188→197页
 
 ## [2026-05-25] ingest | wiki-book《刻意练习》（K. Anders Ericsson，PDF 204页全量）— 新增 9 页：concepts/刻意练习-核心定义与特征 + 刻意练习-心理表征 + 刻意练习-大脑可塑性 + 刻意练习-动机与持续性 + 刻意练习-天才神话破解 + 刻意练习-应用框架 + 刻意练习-天才培养路径 + entities/anders-ericsson + sources/刻意练习；wiki 179→188页
