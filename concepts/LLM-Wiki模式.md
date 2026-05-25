@@ -1,7 +1,7 @@
 ---
-updated: 2026-05-21
+updated: 2026-05-25
 sources: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f]
-related: [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]], [[claude-obsidian]]
+related: [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]], [[claude-obsidian]], [[Andrej-Karpathy]]
 ---
 
 # LLM Wiki 模式
@@ -55,8 +55,30 @@ Schema 层（CLAUDE.md）
 - `index.md` — 内容导向的全页面目录，查询时先读这里
 - `log.md` — 追加写入的时序操作记录
 
+## Schema 是核心差异
+
+Schema（CLAUDE.md/AGENTS.md）是让 LLM 成为"有纪律的 wiki 维护者"而非"通用聊天机器人"的配置文件。它定义目录结构、页面格式、工作流约定。你和 LLM 共同演进它，随时间收敛出适合自己领域的版本。
+
+## 查询的输出形式不止文字
+
+查询答案可以是：Markdown 页面、对比表格、Marp 幻灯片（直接从 wiki 内容生成演示）、Matplotlib 图表。
+**关键原则**：有价值的分析直接存回 wiki，不让它消失在对话历史里——探索本身也是知识积累的一部分。
+
+## Memex 联系
+
+本模式精神上承接 Vannevar Bush 1945 年的 Memex 设想——私人的、主动策展的、文档之间的关联链接与文档本身同等重要。Bush 未能解决的问题是"谁来维护"，LLM 解决了这个问题。
+
+## 推荐工具（Karpathy 原文）
+
+- **Obsidian Web Clipper** — 浏览器扩展，将网页文章转为 Markdown 直接送入 raw/
+- **本地存储图片** — 防止 URL 失效；Obsidian 绑定快捷键一键下载当前文章所有图片
+- **Obsidian 图谱视图** — 查看 wiki 结构全貌，识别枢纽页和孤立页
+- **qmd** — 本地 Markdown 搜索引擎，BM25/向量混合搜索 + LLM 重排，有 MCP server 接口
+- **Dataview** — Obsidian 插件，对 frontmatter 运行查询生成动态表格
+
 ## 延伸实现
 
 - [[claude-obsidian]] — 基于此模式的 Obsidian + Claude Code 完整实现（5.3k stars）
 - [[Hot-Cache]] — claude-obsidian 新增的跨 session 上下文缓存机制
 - [[Wiki三层目录结构]] — concepts/entities/sources 的目录分层策略
+- [[Andrej-Karpathy]] — 原作者

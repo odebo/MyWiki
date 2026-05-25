@@ -185,3 +185,9 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 新增 concepts/从0到1-未来观与规划.md：四象限未来观；明确乐观；肯尼迪宣言三要素；四种未来模式
 - 新增 entities/peter-thiel.md：彼得·蒂尔；PayPal/Palantir联合创始人；Founders Fund；垄断哲学/幂次法则/秘密论/明确乐观
 - 新增 sources/从0到1.md：101页全览；15章+结语完整章节结构
+## [2026-05-25] ingest | LLM Wiki（Karpathy gist）
+- source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- 新建：sources/LLM-Wiki-Karpathy.md，entities/Andrej-Karpathy.md
+- 更新：concepts/LLM-Wiki模式.md（补充 Schema 角色、查询输出形式、Memex联系、工具推荐）
+- 更新：index.md（+2页，总计172页）
+

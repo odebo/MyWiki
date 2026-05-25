@@ -234,7 +234,9 @@
 
 - [[nassim-taleb]] — 纳西姆·尼古拉斯·塔勒布；黎巴嫩裔美国作家/统计学家/前期权交易员；Incerto五部曲作者；黑天鹅理论/杠铃策略/反脆弱框架；《黑天鹅》《反脆弱》《非对称风险》
 
-> 待建：梁宁、Andrej-Karpathy
+- [[Andrej-Karpathy]] — AI研究员/教育者；OpenAI联合创始人/Tesla AI负责人；LLM Wiki模式原作者；CS231n/Zero to Hero/Software 2.0
+
+> 待建：梁宁
 
 ---
 
@@ -280,6 +282,7 @@
 ### 工具与方法
 
 - [[claude-obsidian]] — 5.3k stars；Obsidian+Claude Code 的 LLM Wiki 完整实现
+- [[LLM-Wiki-Karpathy]] — Karpathy gist 原文摘要；三层架构/三个操作/Memex联系/工具推荐；MyWiki与原始模式的对应关系
 
 ### Notion Blog
 
@@ -293,5 +296,5 @@
 
 ## 统计
 
-- 页面数：170（concepts 117 / entities 18 / sources 26 / 根目录元文件 1）
+- 页面数：172（concepts 117 / entities 19 / sources 27 / 根目录元文件 1）
 - 最后更新：2026-05-25
