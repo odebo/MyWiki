@@ -8,6 +8,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ## [2026-05-26] ingest | 古典《跃迁：成为高手的技术》全书（176页）— 新增 8 页：concepts/跃迁-非线性成长 + 跃迁-高价值区战略 + 跃迁-联机学习 + 跃迁-破局三路径 + 跃迁-内在修炼 + TFT人际策略；entities/gu-dian；sources/跃迁-古典；wiki 228→236页
 
+## [2026-05-26] ingest | 斋藤孝《学会学习》全书（97页）— 新增 5 页：concepts/斋藤-学习触发器与质变 + 斋藤-13位高手学习法 + 斋藤-速效学习法；entities/saito-takashi；sources/学会学习-斋藤孝；wiki 236→241页
+
 ## [2026-05-26] ingest | 微信文章《Anthropic PM运行逻辑》（Cat Wu / Lenny's Newsletter解读）— 新增 5 页：concepts/速度引擎-Anthropic模式 + AI时代PM能力体系 + Eval设计-定义成功 + 临时性思维 + sources/Anthropic-PM运行逻辑-Cat-Wu；wiki 222→227页
 
 ## [2026-05-25] ingest | wiki-book《什么是战略》（杰克·特劳特，PDF 95页全量）— 新增 3 页：concepts/战略本质-特劳特 + 聚焦法则-字眼 + sources/什么是战略；更新 entities/al-ries-jack-trout；wiki 219→222页
