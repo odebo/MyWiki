@@ -176,8 +176,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d19d1e0999439e95",
+  "active": "91d52e44816002b2",
   "lastOpenFiles": [
+    "sources/活出生命的意义.md",
+    "entities/viktor-frankl.md",
+    "concepts/存在之虚无.md",
+    "concepts/意义疗法.md",
     "sources/Anthropic-PM运行逻辑-Cat-Wu.md",
     "concepts/临时性思维.md",
     "concepts/Eval设计-定义成功.md",
@@ -200,10 +204,6 @@
     "concepts/小米铁人三项.md",
     "concepts/小米四字诀.md",
     "concepts/风口理论.md",
-    "entities/lei-jun.md",
-    "sources/小米创业思考.md",
-    "sources/李想-产品实战16讲.md",
-    "sources/丰田一页纸思考术.md",
     "未命名.canvas"
   ]
 }

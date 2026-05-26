@@ -211,3 +211,17 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 内容：FDE（Forward-Deployed Engineer）模式完整复盘，Bob McGrew（前Palantir高管/前OpenAI首席研究官）访谈
 - 新页面（2）：concepts/FDE前沿部署工程师模式, sources/FDE-Agent时代PMF
 - 总页面：179（+2）
+
+## [2026-05-26] wiki-book ingest | 维克多·弗兰克尔《活出生命的意义》（63页全量）
+
+- 来源：/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/1489_活出生命的意义_【美】维克多·弗兰克尔.pdf
+- 新页面（4）：concepts/意义疗法, concepts/存在之虚无, entities/viktor-frankl, sources/活出生命的意义
+- 更新页面（1）：concepts/苦难的价值（添加弗兰克尔补充视角和关联）
+- 顶级洞见：
+  1. 人最根本驱动力是追求意义（will-to-meaning），非快乐或权力
+  2. 在刺激与反应之间有一个间隙——那个间隙就是人的自由
+  3. 意义的三条路：创造/工作、体验/爱、苦难的态度
+  4. 存在之虚无：60%美国学生症状；三大集体神经官能症根源
+  5. "曾经存在"是最确定的存在——过去是无法被夺走的财富
+  6. 自我实现只可能是自我超越的副产品
+- 总页面：231（+4，更新+1）
