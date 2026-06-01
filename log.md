@@ -6,6 +6,8 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 
 ---
 
+## [2026-06-01] ingest | Anthropic harness-design-long-running-apps（慢学AI第22集）— 新增 2 页：concepts/创意评估循环-生成器与评估器分离 + sources/Anthropic-harness-design-long-running-apps；wiki 236→238页
+
 ## [2026-05-26] ingest | 古典《跃迁：成为高手的技术》全书（176页）— 新增 8 页：concepts/跃迁-非线性成长 + 跃迁-高价值区战略 + 跃迁-联机学习 + 跃迁-破局三路径 + 跃迁-内在修炼 + TFT人际策略；entities/gu-dian；sources/跃迁-古典；wiki 228→236页
 
 ## [2026-05-27] ingest | 杰弗里·韦斯特《规模》全书（262页）— 新增 6 页：concepts/规模法则-幂律基础 + 规模-城市科学 + 规模-公司生命史 + 规模-有限时间奇点；entities/geoffrey-west；sources/规模-杰弗里韦斯特；wiki 241→247页
