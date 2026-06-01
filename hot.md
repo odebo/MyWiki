@@ -4,6 +4,19 @@
 
 ---
 
+## 最近摄入（2026-06-01）
+
+- **一蛙AI《深入AI Harness演讲》**（抖音，~19分钟）— 新增 2 页：1 concept + 1 source
+  - 核心框架：AI Harness = LLM外部确定性环境；四组件（工具注册表/上下文管理/安全护栏/自动验证）
+  - 关键演示：同一差模型 + login handler + logic validator（不改prompt）→ 满分通过
+  - 企业诉求：可控/可审计/可回滚；IBM Oprahag 真实案例
+  - 预测：动态Harness生成 = AGI关键步骤；Harness工程师 = 下一个稀缺技能
+  - 关联：
+    - AI Harness ↔ 系统能力与确定性（梁宁ATM七岗位类比）
+    - AI Harness vs Anthropic Harness（稳定性 vs 审美评估，两者互补）
+    - Harness工程师 ↔ FDE模式（同为"AI落地工程化"角色）
+  - 文章：`/tmp/video2blog_harness.md`（约1300字，标题《不改提示词，模型直接变聪明了？》）
+
 ## 最近摄入（2026-05-26）
 
 - **梁宁《真需求》**（PDF，pp.1-113，⏳第三章+后续待读）— 新增 6 页：4 concepts + 1 entity + 1 source；同步到 pm-wiki（6页）
