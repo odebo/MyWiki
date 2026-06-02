@@ -4,6 +4,19 @@
 
 ---
 
+## 最近摄入（2026-06-02）
+
+- **Ali厂长《氛围编程已死，欢迎来到 Agent 工程时代》**（抖音，~8分钟）— 新增 2 页：1 concept + 1 source；更新 1 entity
+  - 核心框架：Software 3.0（LLM=计算基底/自然语言=编程接口/Agent=Runtime）；Vibe Coding vs Agentic Engineering 的本质区别
+  - 关键金句："一个没有约束的 Coding Agent 是人质危机，不是劳动力策略"
+  - 判断：判断力是稀缺品；老程序员"不是在编程，是在签字"；模型越强，传统会写代码越不保证懂系统
+  - 市场信号：GH600 认证上线 + Cloudflare/Salesforce/Snap 等大厂以"适配 Agentic AI"为由裁员
+  - 关联：
+    - [[无限心灵管理者]]（Ivan Zhao）—— 独立贡献者→多 Agent 编排者，两人判断完全一致
+    - [[AI时代PM能力体系]] —— "判断力是唯一升值资产"再次印证
+    - [[FDE前沿部署工程师模式]] —— Agentic Engineering 的企业侧落地形态
+  - 文章：`/tmp/video2blog_agentic.md`（约1200字，标题《Karpathy 亲口宣判：氛围编程结束了》）
+
 ## 最近摄入（2026-06-01）
 
 - **一蛙AI《深入AI Harness演讲》**（抖音，~19分钟）— 新增 2 页：1 concept + 1 source

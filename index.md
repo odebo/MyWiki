@@ -299,6 +299,10 @@
 
 - [[AI-Harness-工程架构模式]] — LLM外部确定性环境；四组件（工具注册表/上下文管理/安全护栏/自动验证）；不改prompt让差模型变好用；与Anthropic Harness的区别（稳定性vs审美评估）；IBM Oprahag案例；动态Harness预测
 
+### Software 3.0 与 Agentic Engineering（Karpathy）
+
+- [[Software-3.0与Agentic-Engineering]] — Karpathy 2025年框架；Software三代演进（1.0人写代码/2.0神经网络/3.0 LLM=计算基底+Agent=Runtime）；Vibe Coding vs Agentic Engineering；Root权限金句；判断力是稀缺品；GitHub GH600认证+大厂裁员两极市场信号
+
 ### 杰克·韦尔奇《商业的本质》
 
 - [[4e1p-leadership]] — 4E+1P领导力框架：Energy/Energize/Edge/Execute/Passion五维测试；Passion无法伪装；前4E可测试可培养
@@ -411,6 +415,7 @@
 - [[Anthropic-PM运行逻辑-Cat-Wu]] — WalkerYu解读 Lenny's Newsletter：Cat Wu（Claude Code PM）访谈；五层速度引擎+AI时代PM五层能力+Eval设计+临时性思维；约8000字
 - [[Anthropic-harness-design-long-running-apps]] — 慢学AI第22集解读；创意任务 Eval 困境；生成器/评估器分离架构；四维审美评分框架；平均水平即 AI 味
 - [[一蛙AI-深入AI-Harness演讲]] — 抖音19分钟技术分享；AI Harness四组件；不改prompt让差模型变好用；IBM Oprahag案例；动态Harness生成预测
+- [[Ali厂长-氛围编程已死-Agentic工程时代]] — 抖音8分钟解读；Karpathy×红杉对话；Software 3.0框架；Root权限金句；GH600认证+大厂裁员；判断力是唯一升值资产
 
 - [[真需求-梁宁]] — 梁宁《真需求》：商业闭环极简模型+产品价值三分法+功能价值四模型+情绪价值公式；pp.1-113全览（⏳第三章资产价值待读）
 

@@ -20,6 +20,7 @@ AI 研究员、教育者。前 OpenAI 联合创始人、Tesla AI 负责人。以
 - **Neural Networks: Zero to Hero** — YouTube 系列，从零手写 GPT，影响力极大
 - **LLM Wiki 模式** — 提出用 LLM 增量维护个人知识库的范式，见 [[LLM-Wiki模式]]
 - **Software 2.0** — 2017 年文章，提出神经网络是新的编程范式，代码被权重替代
+- **Software 3.0 与 Vibe Coding** — 2025 年命名"Vibe Coding"，后在与红杉 Stephanie Zhan 对话中宣布进入"Agentic Engineering"时代，见 [[Software-3.0与Agentic-Engineering]]
 
 ## 风格特点
 
