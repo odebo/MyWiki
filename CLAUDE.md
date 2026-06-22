@@ -20,17 +20,22 @@ ls concepts/ opinions/ sources/ | grep -c ".md"
 
 ## 仓库结构
 
-这不是代码项目，而是 markdown 知识库。三层目录 + 四个根目录元文件：
+这不是代码项目，而是 markdown 知识库。四层目录 + 四个根目录元文件：
 
 ```
 concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
 opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
 sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
+topics/     # 主题聚合页（17个大主题，连接 opinions/concepts/sources，是图谱的中间层）
 hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
-index.md    # 全量目录，按三层分类列出所有页面
+index.md    # 全量目录，按四层分类列出所有页面
 log.md      # 追加写入的操作日志（只追加，不删改）
 raw/        # 原始资料（只读，不修改）
 ```
+
+**图谱拓扑**：index → topics（17个）→ opinions/concepts/sources（多对多）
+- 每个 opinion 在末尾写 `**主题**：[[主题A]] [[主题B]]` 建立反向链接
+- 一个节点可以属于多个主题，Obsidian 图谱自动形成网状结构
 
 ## 可用 Skills
 
@@ -59,8 +64,9 @@ raw/        # 原始资料（只读，不修改）
 1. 读取资料，与用户讨论 3 个核心要点（确认再继续）
 2. 创建或更新相关 wiki 页面，按类型放置：
    - 抽象概念（定义/框架/工具）→ `concepts/`
-   - 强命题/观点（某人对某问题的主张）→ `opinions/`
+   - 强命题/观点（某人对某问题的主张）→ `opinions/`（末尾加 `**主题**：[[主题名]]`）
    - 来源摘要（含作者简介）→ `sources/`
+   - 新主题出现时更新 `topics/` 对应页面
 3. 更新 `index.md`
 4. 追加 `log.md` 一条记录
 5. git commit & push

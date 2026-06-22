@@ -14,3 +14,4 @@ related: []
 **核心证据/论据**：As code becomes much cheaper to write, the thing that becomes more valuable is deciding what to write.
 
 **可被挑战**：当AI无法完全替代复杂决策时，技术实现能力可能仍然重要
+**主题**：[[AI技术]] [[产品开发]]
