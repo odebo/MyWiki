@@ -15,7 +15,7 @@ git add -A && git commit -m "wiki: <简述>" && git push
 grep "^## \[" log.md | tail -5
 
 # 统计页面数
-ls concepts/ sources/ entities/ | grep -c ".md"
+ls concepts/ opinions/ sources/ | grep -c ".md"
 ```
 
 ## 仓库结构
@@ -23,33 +23,22 @@ ls concepts/ sources/ entities/ | grep -c ".md"
 这不是代码项目，而是 markdown 知识库。三层目录 + 四个根目录元文件：
 
 ```
-concepts/   # 抽象概念页（可跨来源复用的知识单元）
-entities/   # 人物 / 组织 / 产品实体页
-sources/    # 来源摘要页（每个原始资料对应一页）
+concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
+opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
+sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
 hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
 index.md    # 全量目录，按三层分类列出所有页面
-log.md      # 追加写入的操作日志
-raw/        # 原始资料（只读）
+log.md      # 追加写入的操作日志（只追加，不删改）
+raw/        # 原始资料（只读，不修改）
 ```
 
----
+## 可用 Skills
 
-你维护一个个人知识库。以下是完整规则。
+操作 wiki 时优先调用对应 skill，而不是手动执行：
 
-## 目录结构
-
-```
-wiki/
-├── CLAUDE.md       # 本文件，Schema（随 git 同步到所有设备）
-├── index.md        # 所有页面目录
-├── log.md          # 操作日志（只追加）
-├── hot.md          # 热缓存（跨 session 上下文，每次 session 开始先读）
-├── raw/            # 原始资料（只读，不修改）
-│   └── assets/     # 图片等附件
-├── concepts/       # 抽象概念页（数量最多）
-├── entities/       # 人物 / 组织 / 产品实体页
-└── sources/        # 来源摘要页（每个原始资料对应一页）
-```
+- `wiki` — 通用查询 / ingest / lint
+- `wiki-book` — 专门用于书籍 PDF 的结构化 ingest
+- `wiki-bridge` — 对话中产生洞见后，主动 ingest 回 wiki
 
 ## 触发条件
 
@@ -69,9 +58,9 @@ wiki/
 
 1. 读取资料，与用户讨论 3 个核心要点（确认再继续）
 2. 创建或更新相关 wiki 页面，按类型放置：
-   - 抽象概念 → `concepts/`
-   - 人物/组织/产品 → `entities/`
-   - 来源摘要 → `sources/`
+   - 抽象概念（定义/框架/工具）→ `concepts/`
+   - 强命题/观点（某人对某问题的主张）→ `opinions/`
+   - 来源摘要（含作者简介）→ `sources/`
 3. 更新 `index.md`
 4. 追加 `log.md` 一条记录
 5. git commit & push
@@ -84,7 +73,7 @@ wiki/
 
 ## Lint（健康检查）
 
-检查：页面间矛盾、孤立页面（无入链）、过时内容、缺失交叉引用、entities/ 空缺。
+检查：页面间矛盾、孤立页面（无入链）、过时内容、缺失交叉引用、opinions/ 缺少对立观点。
 
 ## Session 结束
 
@@ -92,6 +81,7 @@ wiki/
 
 ## 页面格式
 
+**concepts / sources**：
 ```markdown
 ---
 updated: YYYY-MM-DD
@@ -104,16 +94,23 @@ related: [[页面A]], [[页面B]]
 正文...
 ```
 
-## Git 同步（双设备共享）
+**opinions**（一条命题一页）：
+```markdown
+---
+updated: YYYY-MM-DD
+opinion_of: 作者名
+topic: 主题词（用于跨作者聚合）
+sources: [[来源 concept 或 source 页]]
+related: [[对立观点页]], [[支持观点页]]
+---
 
-操作 wiki 前后执行：
+# 命题标题（强主张，不超过15字）
 
-```bash
-# 操作前
-git -C ~/wiki pull
+**主张**：一两句话陈述核心观点。
 
-# 操作后
-git -C ~/wiki add -A && git commit -m "wiki: <简述>" && git push
+**反常识在哪**：这个观点打破了什么默认认知。
+
+**核心证据/论据**：作者用什么支撑。
+
+**可被挑战**：什么情况下这个观点会失效或被反驳。
 ```
-
-若尚未关联远程仓库，跳过 git 步骤并提示用户配置。

@@ -1,0 +1,7 @@
+[mcp_servers.wiki]
+command = "npx"
+args = [
+    "-y",
+    "@modelcontextprotocol/server-filesystem",
+    "/Users/zhuqichen/Documents/WorkSpace/MyWiki",
+]

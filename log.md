@@ -256,3 +256,5 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 - 新增 1 个 entities 页面：liang-ning（补建 backlog 项）
 - 新增 1 个 sources 页面：真需求-梁宁
 - ⏳ 第三章（资产价值，pp.114+）待后续读完补充
+
+## [2026-06-22] 结构重构 | 新增 opinions/ 目录，用 DeepSeek-V3 从 concepts/ 和 entities/ 批量提炼 233 条强命题观点；废弃 entities/ 目录；知识库结构升级为三层（concepts/opinions/sources）
