@@ -1,3 +1,5 @@
+## [2026-06-23] ingest | 《福格行为模型》B.J.福格 — 5 concepts（BMAP框架/微小习惯/锚点提示/情绪庆祝/坏习惯终止），6 opinions，1 source；主题：个人成长/学习策略/心理学；total 497页
+
 ## [2026-06-23] ingest | 《纳瓦尔宝典》埃里克·乔根森 — 5 concepts，5 opinions，1 source；主题：商业哲学/幸福学/个人成长
 ## [2026-06-23] ingest | 《深度工作》卡尔·纽波特 — 5 concepts，4 opinions，1 source；主题：学习策略/个人成长/组织管理
 ## [2026-06-23] ingest | 《掌控习惯》詹姆斯·克利尔 — 6 concepts，5 opinions，1 source，1 entity
