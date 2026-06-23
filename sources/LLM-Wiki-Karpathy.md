@@ -82,3 +82,4 @@ related: [[LLM-Wiki模式]], [[Andrej-Karpathy]], [[Wiki三层目录结构]], [[
 | Hot Cache（扩展）| `hot.md` |
 
 MyWiki 在 Karpathy 原始模式基础上增加了 `hot.md`（跨 session 热缓存）和三层目录结构（concepts/entities/sources 分层），是对原模式的具体实例化。
+**主题**：[[AI技术]] [[认知科学]]

@@ -94,3 +94,4 @@ related: [[Ray-Dalio-原则]], [[meritocracy]], [[bridgewater-tools]], [[ray-dal
 - 两者结合，使可信度加权从理念变为可量化操作
 
 → 详见 [[bridgewater-tools]]
+**主题**：[[组织管理]]

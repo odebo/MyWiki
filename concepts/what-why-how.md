@@ -66,3 +66,4 @@ related: [[toyota-business-practice]], [[ichimai-framework]], [[two-stage-proble
 - **策划类工作**：策划的目的及背景（Why?）/ 策划的概要与重点（What?）/ 策划的实施（How?）
 - **向上汇报**：汇报内容的总结（What?）/ 为何联系上司（Why?）/ 汇报之后该如何处理（How?）
 - **日常问题解决**：与TBP前五步一一对应
+**主题**：[[思维方法]] [[沟通技巧]]

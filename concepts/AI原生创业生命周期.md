@@ -84,3 +84,4 @@ AI 时代的创业路径由四个阶段组成。每个阶段的本质相同：**
 创始人的工作始终是：找到真实问题 → 建解决方案 → 扩成重要公司。
 
 > "The bottlenecks are no longer what you can build, but what you choose to build."
+**主题**：[[创业管理]] [[AI技术]]

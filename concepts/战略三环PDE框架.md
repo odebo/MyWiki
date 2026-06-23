@@ -64,3 +64,4 @@ CEO必须**预判并厘清这种波动**，嵌入团队共识。不能因为短�
 - **合益集团**：Hay Group组织与人才管理体系
 
 参考书目：波特《竞争战略》；Kaplan & Norton《战略地图》；Wageman《Senior Leadership Teams》
+**主题**：[[战略规划]] [[组织管理]]

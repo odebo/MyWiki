@@ -260,3 +260,7 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 ## [2026-06-22] 结构重构 | 新增 opinions/ 目录，用 DeepSeek-V3 从 concepts/ 和 entities/ 批量提炼 233 条强命题观点；废弃 entities/ 目录；知识库结构升级为三层（concepts/opinions/sources）
 
 ## [2026-06-22] 结构升级 | 新增 topics/ 目录（17个大主题），opinions 多对多挂载主题；index.md 改为主题导航入口，解决星型拓扑爆炸问题
+
+## [2026-06-22] 图谱完善 | 给 concepts/ 和 sources/ 234 个文件追加主题链接（**主题**：[[X]]）；topics/ 17个主题页补充相关概念和来源列表；index.md 去除 concepts/sources/opinions 条目的 [[wikilinks]] 改为纯文本，消除星型拓扑直接边，图谱现为 index→17topics→所有节点的网络结构
+
+## [2026-06-23] index.md 瘦身 | 从 1039 行压缩到 14 行，删除所有 concepts/sources/opinions 详细列表，只保留主题导航入口；检索职责完全交给 topics/ 17个主题页

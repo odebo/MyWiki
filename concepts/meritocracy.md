@@ -89,3 +89,4 @@ related: [[Ray-Dalio-原则]], [[radical-transparency]], [[credibility-weighting
 - [[credibility-weighting]] — 可信度加权的具体操作方法
 - [[radical-transparency]] — 创意择优的信息基础设施
 - [[bridgewater-tools]] — 实现创意择优的工具体系
+**主题**：[[组织管理]] [[商业哲学]]

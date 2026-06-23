@@ -60,3 +60,4 @@ Agent 时代的到来使 FDE（Forward-Deployed Engineer）模式从 Palantir �
 - **来源**：微信公众号文章（Founder Park）
 - **创建页面**：1（concepts/FDE前沿部署工程师模式）
 - **备注**：WebFetch 被微信安全验证拦截，改用 curl + iPhone Mobile User-Agent 成功获取全文
+**主题**：[[AI技术]] [[创业管理]]

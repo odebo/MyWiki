@@ -85,3 +85,4 @@ related: [[Ray-Dalio-原则]], [[meritocracy]], [[ray-dalio]]
 - [[meritocracy]] — 极度透明服务的目标：创意择优
 - [[pain-reflection-progress]] — 极度求真触发的"痛苦"是进步的原料
 - [[bridgewater-tools]] — 实现透明的工具体系（集点器/棒球卡/每日更新）
+**主题**：[[组织管理]] [[沟通技巧]]

@@ -44,3 +44,4 @@ related: [[Software-3.0与Agentic-Engineering]], [[Andrej-Karpathy]], [[无限�
 - [[无限心灵管理者]] — Ivan Zhao 对"独立贡献者→多 Agent 编排者"的同一判断
 - [[AI时代PM能力体系]] — "判断力是唯一升值资产"，来自 Anthropic PM 体系（本视频再次印证）
 - [[FDE前沿部署工程师模式]] — FDE 是 Agentic Engineering 的一种企业侧落地形态
+**主题**：[[AI技术]] [[产品开发]]

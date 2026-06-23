@@ -88,3 +88,4 @@ bash bin/setup-vault.sh
 - 主要工作流通过 **Claude Code**（VSCode 终端）驱动
 - Obsidian 作为**阅读和可视化层**，VSCode+Claude 作为**写入层**
 - 通过 [[MCP文件系统集成]] 实现无缝读写
+**主题**：[[AI技术]] [[产品开发]]

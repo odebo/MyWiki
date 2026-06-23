@@ -84,3 +84,4 @@ Obsidian
 ```
 
 Claude 在 VSCode 里写文件，Obsidian 里立刻可见，实现"AI 写、人看"的流畅分工。
+**主题**：[[产品开发]] [[AI技术]]

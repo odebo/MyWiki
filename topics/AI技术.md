@@ -32,6 +32,34 @@ type: topic
 - [[模型素养-CatWu]] — Cat Wu · 数据和论文告诉你模型能做什么，直觉和手感告诉你模型会在哪里搞砸。
 - [[知识管理-AndrejKarpathy]] — Andrej Karpathy · 知识库衰败的原因不是阅读或思考，而是书记员工作——人会疲惫，LLM不会，使个人规
 
+## 相关概念
+
+- [[AI-Harness-工程架构模式]]
+- [[AI产品定位]]
+- [[AI作为奇迹材料]]
+- [[AI创业护城河]]
+- [[AI原生创业生命周期]]
+- [[AI时代PM能力体系]]
+- [[AI时代创业陷阱]]
+- [[Hot-Cache]]
+- [[LLM-Wiki模式]]
+- [[MCP文件系统集成]]
+- [[Software-3.0与Agentic-Engineering]]
+- [[wechat-ai-tech-writing]]
+- [[从0到1-人机协作]]
+- [[渐进式技术攀登]]
+- [[跃迁-联机学习]]
+- [[速度引擎-Anthropic模式]]
+
+
 ## 相关来源
 
-（待补充）
+- [[Ali厂长-氛围编程已死-Agentic工程时代]]
+- [[Anthropic-harness-design-long-running-apps]]
+- [[FDE-Agent时代PMF]]
+- [[FirstRound-AI产品定位手册]]
+- [[Ivan-Zhao-AI奇迹材料]]
+- [[LLM-Wiki-Karpathy]]
+- [[The-Founders-Playbook]]
+- [[claude-obsidian]]
+- [[一蛙AI-深入AI-Harness演讲]]
