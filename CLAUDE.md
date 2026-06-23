@@ -42,7 +42,7 @@ raw/        # 原始资料（只读，不修改）
 操作 wiki 时优先调用对应 skill，而不是手动执行：
 
 - `wiki` — 通用查询 / ingest / lint
-- `wiki-book` — 专门用于书籍 PDF 的结构化 ingest
+- `wiki-ingest` — 专门用于书籍 PDF 的结构化 ingest（分章节阅读、逐章提炼）
 - `wiki-bridge` — 对话中产生洞见后，主动 ingest 回 wiki
 
 ## 触发条件
