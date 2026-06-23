@@ -131,8 +131,6 @@ description: 分章节阅读长书（PDF），逐章提炼洞见，最终 ingest
 concepts/
   • 主题A.md — 核心概念页
   • 主题B.md — ...
-entities/
-  • 作者名.md — 人物页（如有必要）
 sources/
   • 书名-来源摘要.md — 来源摘要页
 
