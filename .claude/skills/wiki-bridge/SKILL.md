@@ -5,6 +5,13 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 # Wiki Bridge — Wiki 双向桥接
 
+## Wiki 路径
+
+- Wiki 根目录：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/`
+- hot.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/hot.md`
+- index.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/index.md`（只有 14 行，仅含主题导航）
+- topics/：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/topics/`（17 个主题页，是检索入口）
+
 ## 触发条件
 
 **前向注入（对话开始时自动触发）：**
@@ -22,21 +29,25 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ### 第 1 步：读取 Wiki 热缓存
 
-读取 `/Users/zhuqichen/Documents/WorkSpace/Asrocky01/MyWiki/hot.md`，获取近期上下文（活跃话题、最近摄入、未解问题）。
+读取 `hot.md`，获取近期上下文（活跃话题、最近摄入、未解问题）。
 
 ### 第 2 步：定位相关页面
 
-读取 `/Users/zhuqichen/Documents/WorkSpace/Asrocky01/MyWiki/index.md`，根据用户提问的关键词在目录中搜索相关页面。
+**注意：index.md 现在只有 14 行，不含页面列表，不要在里面搜索。**
+
+检索路径：
+1. 根据用户问题的关键词，判断最相关的 1-2 个主题（从 17 个主题中选：AI技术/产品开发/创业管理/认知科学/学习策略/市场营销/心理学/思维方法/战略规划/教育革新/组织管理/商业哲学/沟通技巧/个人成长/幸福学/领导力/文化研究）
+2. 读对应的 `topics/主题名.md`，在其"相关观点"/"相关概念"/"相关来源"列表中找具体页面
+3. 找到最相关的页面名（最多 3 页），读取这些页面
 
 匹配规则：
-- 关键词直接出现在页面标题或简介中 → 高相关
-- 属于同一话题群（如"Ray Dalio"→ meritocracy/radical-transparency/five-step-process）→ 中相关
-- 最多选 3 页注入，优先选高相关
-- 若无相关页面，静默跳过（不输出 `[Wiki]` 提示），直接正常回答
+- 关键词直接出现在页面名或摘要中 → 高相关，优先选
+- 同一作者/话题群（如"Ray Dalio"→ meritocracy/radical-transparency）→ 中相关
+- 若无相关页面，静默跳过，直接正常回答
 
 ### 第 3 步：读取并注入
 
-读取选中的页面，提取核心内容（不超过每页前 50 行），在回答开头告知用户：
+读取选中的页面，在回答开头告知用户：
 
 ```
 [Wiki] 找到相关内容：[[页面名A]]、[[页面名B]]
@@ -49,10 +60,11 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 用户问："创意择优是什么意思？"
 
 1. 读 hot.md → 发现 Ray Dalio 是活跃话题
-2. 读 index.md → 找到 `[[meritocracy]]`、`[[radical-transparency]]`
-3. 读这两页 → 提取核心内容
-4. 回答前告知："[Wiki] 找到相关内容：[[meritocracy]]、[[radical-transparency]]"
-5. 基于 Wiki 内容回答，不重复用户已知的内容
+2. 判断相关主题：组织管理
+3. 读 `topics/组织管理.md` → 找到 `[[meritocracy]]`、`[[radical-transparency]]`
+4. 读这两页 → 提取核心内容
+5. 回答前告知："[Wiki] 找到相关内容：[[meritocracy]]、[[radical-transparency]]"
+6. 基于 Wiki 内容回答
 
 ---
 
@@ -61,8 +73,8 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 ### 第 1 步：识别新洞见
 
 分析本次对话，识别值得保存的内容：
-- 新概念、新框架、新决策
-- 对已有 Wiki 内容的补充或修正
+- 新概念、新框架、新决策 → 候选 `concepts/`
+- 某人的强主张（反常识、有争议、可质疑）→ 候选 `opinions/`
 - 用户明确表达"这个值得记"的内容
 
 排除：
@@ -71,24 +83,31 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ### 第 2 步：提议页面结构
 
-向用户提议：
+向用户提议，并区分目标目录：
 
 ```
 本次对话产生了以下值得记录的内容：
 
-1. [新洞见摘要] → 建议写入 concepts/XXX.md（新建）
-2. [补充内容] → 建议更新 concepts/YYY.md（已有）
+1. [新概念/框架摘要] → concepts/XXX.md（新建）
+2. [某人的强主张] → opinions/命题-作者.md（新建）
+3. [补充内容] → concepts/YYY.md（追加）
 
 确认后执行？
 ```
 
 ### 第 3 步：执行写入
 
-用户确认后，调用 `wiki` skill 执行具体写入操作（遵循 MyWiki/CLAUDE.md 的格式规范）。
+用户确认后，按标准格式创建或更新页面：
+
+- **concepts/** 页面末尾加 `**主题**：[[主题名]]`
+- **opinions/** 页面末尾加 `**主题**：[[主题名]]`（H1 直接用命题文本，不超过 15 字）
+- 追加 `log.md` 一条记录
+- 更新 `index.md` 末尾统计数字
+- git commit & push
 
 ### 第 4 步：更新 hot.md
 
-写入完成后，追加更新 `/Users/zhuqichen/Documents/WorkSpace/Asrocky01/MyWiki/hot.md` 的"最近摄入"和"活跃话题"部分。
+写入完成后，追加更新 `hot.md` 的"最近摄入"和"活跃话题"部分。
 
 ---
 
@@ -112,7 +131,9 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ## 注意事项
 
+- **检索路径变了**：index.md 只有 14 行，检索必须走 `topics/主题.md` → 具体页面，不要在 index.md 里搜
 - **不要强制触发**：若对话明显是代码任务（改 bug、写函数），跳过前向注入
 - **不要重复已知**：若 Wiki 内容用户显然已知（刚讨论过），不必再引用
 - **提议而非强制**：后向 ingest 永远先提议，用户确认再执行
 - **保持简洁**：`[Wiki]` 提示语要简短，不要打断对话流
+- **主题链接必须加**：每个新页面末尾加 `**主题**：[[X]]`，否则节点在图谱中孤立
