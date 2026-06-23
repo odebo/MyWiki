@@ -1,3 +1,5 @@
+## [2026-06-23] ingest | 《掌控习惯》詹姆斯·克利尔 — 6 concepts，5 opinions，1 source，1 entity
+
 ## [2026-06-08] ingest | blog2video《The Half Second》视频洞见 — 新增 1 页：concepts/反应改写操作系统；连接李笑来、刻意练习、认知破局
 
 # Log
