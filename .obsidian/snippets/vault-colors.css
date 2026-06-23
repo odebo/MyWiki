@@ -1,12 +1,13 @@
 /* ============================================================
    wiki vault colors — adapted from claude-obsidian
-   blue (concepts) | green (sources) | purple (entities)
+   blue (concepts) | green (sources) | purple (entities) | orange (opinions)
    ============================================================ */
 
 :root {
   --cb-blue:   #4fc1ff;   /* concepts — knowledge nodes */
   --cb-green:  #6a9955;   /* sources — content nodes    */
   --cb-purple: #c586c0;   /* entities — people & orgs   */
+  --cb-orange: #ff8c42;   /* opinions — strong claims   */
   --cb-meta:   #569cd6;   /* index, hot, log            */
   --cb-dim:    #606060;   /* raw — de-emphasized        */
 }
@@ -22,6 +23,10 @@
 /* ── People & orgs — purple ── */
 .nav-folder-title[data-path="entities"]    { color: var(--cb-purple); }
 .nav-folder-title[data-path^="entities/"] { color: var(--cb-purple); }
+
+/* ── Opinions — orange ── */
+.nav-folder-title[data-path="opinions"]    { color: var(--cb-orange); font-weight: 600; }
+.nav-folder-title[data-path^="opinions/"] { color: var(--cb-orange); }
 
 /* ── De-emphasized ── */
 .nav-folder-title[data-path="raw"]  { color: var(--cb-dim); opacity: 0.55; }
