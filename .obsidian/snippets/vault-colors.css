@@ -8,6 +8,7 @@
   --cb-green:  #6a9955;   /* sources — content nodes    */
   --cb-purple: #c586c0;   /* entities — people & orgs   */
   --cb-orange: #ff8c42;   /* opinions — strong claims   */
+  --cb-teal:   #4ec9b0;   /* topics — theme clusters    */
   --cb-meta:   #569cd6;   /* index, hot, log            */
   --cb-dim:    #606060;   /* raw — de-emphasized        */
 }
@@ -27,6 +28,10 @@
 /* ── Opinions — orange ── */
 .nav-folder-title[data-path="opinions"]    { color: var(--cb-orange); font-weight: 600; }
 .nav-folder-title[data-path^="opinions/"] { color: var(--cb-orange); }
+
+/* ── Topics — teal ── */
+.nav-folder-title[data-path="topics"]    { color: var(--cb-teal); }
+.nav-folder-title[data-path^="topics/"] { color: var(--cb-teal); }
 
 /* ── De-emphasized ── */
 .nav-folder-title[data-path="raw"]  { color: var(--cb-dim); opacity: 0.55; }
