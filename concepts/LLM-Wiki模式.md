@@ -1,7 +1,7 @@
 ---
 updated: 2026-05-25
 sources: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f]
-related: [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]], [[claude-obsidian]], [[Andrej-Karpathy]]
+related: [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]], [[claude-obsidian]], [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]]
 ---
 
 # LLM Wiki 模式
@@ -81,5 +81,5 @@ Schema（CLAUDE.md/AGENTS.md）是让 LLM 成为"有纪律的 wiki 维护者"而
 - [[claude-obsidian]] — 基于此模式的 Obsidian + Claude Code 完整实现（5.3k stars）
 - [[Hot-Cache]] — claude-obsidian 新增的跨 session 上下文缓存机制
 - [[Wiki三层目录结构]] — concepts/entities/sources 的目录分层策略
-- [[Andrej-Karpathy]] — 原作者
+- [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]] — 原作者
 **主题**：[[AI技术]] [[产品开发]]

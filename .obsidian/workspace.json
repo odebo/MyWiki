@@ -11,10 +11,14 @@
             "id": "d19d1e0999439e95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "opinions/产品价值-梁宁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "产品价值-梁宁"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "d19d1e0999439e95",
   "lastOpenFiles": [
+    "opinions/产品定位-ArielleJackson.md",
+    "opinions/财富观-李笑来.md",
     "entities/詹姆斯·克利尔.md",
     "sources/掌控习惯-克利尔.md",
     "opinions/坏习惯即时结果愉悦最终结果痛苦-克利尔.md",
@@ -202,8 +208,6 @@
     "topics/战略规划.md",
     "topics/思维方法.md",
     "topics/心理学.md",
-    "topics/幸福学.md",
-    "topics/市场营销.md",
     "topics",
     "opinions",
     "未命名.canvas"
