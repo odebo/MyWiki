@@ -266,3 +266,5 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 ## [2026-06-22] 图谱完善 | 给 concepts/ 和 sources/ 234 个文件追加主题链接（**主题**：[[X]]）；topics/ 17个主题页补充相关概念和来源列表；index.md 去除 concepts/sources/opinions 条目的 [[wikilinks]] 改为纯文本，消除星型拓扑直接边，图谱现为 index→17topics→所有节点的网络结构
 
 ## [2026-06-23] index.md 瘦身 | 从 1039 行压缩到 14 行，删除所有 concepts/sources/opinions 详细列表，只保留主题导航入口；检索职责完全交给 topics/ 17个主题页
+
+## [2026-06-23] Ingest《深度工作》卡尔·纽波特 | 新增5 concepts（注意力残留、深度工作哲学、停工仪式、手艺人工具选择法则、度量黑洞）+ 4 opinions + 1 source；total 472页
