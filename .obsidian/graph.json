@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 6986069
       }
+    },
+    {
+      "query": "path:opinions",
+      "color": {
+        "a": 1,
+        "rgb": 16747586
+      }
+    },
+    {
+      "query": "path:topics",
+      "color": {
+        "a": 1,
+        "rgb": 5163440
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 80,
-  "scale": 0.17047555298699504,
+  "scale": 0.4034466626911567,
   "close": true
 }
