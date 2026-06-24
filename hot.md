@@ -4,6 +4,26 @@
 
 ---
 
+## 最近摄入（2026-06-24）
+
+- **《认知觉醒》保罗·斯隆**（95页，32章）— 新增 16 页：7 concepts + 8 opinions + 1 source
+  - 核心框架：发散/趋同思维，六顶思考帽，横向思维技法，配对排序决策法，莲花构思法，挂钩记忆法，可得性偏差与思维错误
+  - 关键命题：提问者掌握大局 / 直觉不可信 / 失败是更好老师 / 组合是最可靠创新 / 目标写下来才能实现 / 大脑如肌肉 / 故事比事实 / 乐观者更长寿
+
+- **《如何学习》本尼迪克特·凯里** — 新增 12 页：6 concepts + 5 opinions + 1 source
+- **《原则（实践版）》瑞·达利欧** — 新增 9 页：3 concepts + 5 opinions + 1 source
+- **《为自己思考》奥赞·瓦罗尔** — 新增 19 页：10 concepts + 8 opinions + 1 source
+- **《间接思考的艺术》约翰·凯** — 新增 13 页：6 concepts + 6 opinions + 1 source
+- **《决策》埃里克·约翰逊** — 新增 14 页：7 concepts + 6 opinions + 1 source
+- **《好战略，坏战略 2》** — 新增 16 页：7 concepts + 8 opinions + 1 source
+- **《为什么伟大不能被计划》** — 新增 13 页：6 concepts + 7 opinions + 1 source
+- **《园丁与木匠》** — 新增 12 页：6 concepts + 5 opinions + 1 source
+- **《权力进化论》** — 新增 15 页：7 concepts + 8 opinions + 1 source
+- **《跨越鸿沟》** — 新增 10 页：5 concepts + 4 opinions + 1 source
+- **《超越智商》** — 新增 10 页：6 concepts + 4 opinions + 1 source
+- **《芒格之道》** — 新增 13 页：6 concepts + 5 opinions + 1 source + 1 entity
+- **《重新思考》** — 新增 10 页：6 concepts + 4 opinions + 1 source
+
 ## 最近摄入（2026-06-02）
 
 - **Ali厂长《氛围编程已死，欢迎来到 Agent 工程时代》**（抖音，~8分钟）— 新增 2 页：1 concept + 1 source；更新 1 entity
