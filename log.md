@@ -47,6 +47,7 @@ append-only。格式：`## [YYYY-MM-DD] 操作类型 | 简述`
 用 `grep "^## \[" ~/wiki/log.md | tail -5` 查看最近 5 条记录。
 
 
+## [2026-06-24] ingest | 《运动改造大脑》约翰·瑞迪 — 5 concepts（BDNF/运动与神经新生/零点体育课/压力免疫/运动抗抑郁），7 opinions（运动是灵丹妙药/运动抗抑郁等效药物/身体活动是学习前提/强制vs自愿锻炼/久坐大脑萎缩/运动阻断焦虑回路/运动改善ADHD），1 source；主题：认知科学/学习策略/心理学/个人成长/教育革新；760→774页
 ## [2026-06-24] ingest | 《5000天后的世界》凯文·凯利 — 6 concepts（镜像世界/进托邦/倾听科技/平台作为组织形态/创新在边缘/失败分享会），11 opinions（镜像世界平台/科技51-49法则/不存在通用AI/平台新组织形态/成功隔绝现实/更多更好科技/创新在混沌边缘/GAFA被取代/AI时代提问/体验贫困/未来属于乐观者），1 source；主题：AI技术/思维方法/创业管理/组织管理/个人成长/产品开发/教育革新/商业哲学；742→760页---
 
 ## [2026-06-01] ingest | Anthropic harness-design-long-running-apps（慢学AI第22集）— 新增 2 页：concepts/创意评估循环-生成器与评估器分离 + sources/Anthropic-harness-design-long-running-apps；wiki 236→238页
