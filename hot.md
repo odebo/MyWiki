@@ -302,9 +302,9 @@
 
 ## 知识库状态
 
-- 总页面：936 页
-- 结构：四层目录（concepts 391页 / sources 79页 / opinions 449页 / topics 17页）
-- 最近 commit：《穿越寒冬》ingest（10页）
+- 总页面：944 页
+- 结构：四层目录（concepts 394页 / sources 80页 / opinions 453页 / topics 17页）
+- 最近 commit：《心情不好，做会儿冥想》ingest（8页）
 
 ## 最近摄入
 - **反应改写操作系统**（2026-06-08）— blog2video 洞见：改变不是意志力模式，而是环境+脚本+重复练习的操作系统升级；关联《The Half Second》、李笑来、刻意练习与元认知。
