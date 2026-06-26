@@ -386,9 +386,9 @@
 
 ## 知识库状态
 
-- 总页面：1152 页
-- 结构：四层目录（concepts 471页 / sources 99页 / opinions 563页 / topics 18页）
-- 最近 commit：《清单革命》葛文德 ingest（9页）
+- 总页面：1161 页
+- 结构：四层目录（concepts 474页 / sources 100页 / opinions 568页 / topics 18页）
+- 最近 commit：《卓有成效的管理者》德鲁克 ingest（9页）
 
 ## 最近摄入
 - **反应改写操作系统**（2026-06-08）— blog2video 洞见：改变不是意志力模式，而是环境+脚本+重复练习的操作系统升级；关联《The Half Second》、李笑来、刻意练习与元认知。
