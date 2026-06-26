@@ -381,15 +381,14 @@
 ## 未解问题
 
 - entities/ 仍需补充：Andrej-Karpathy（梁宁 ✅ 已完成）
-- Zhihu 文章 https://zhuanlan.zhihu.com/p/2017696237659374146 因 HTTP 403 未完成 ingest，需用户手动粘贴内容
 - 互联网文案写作（安佳）：p248-260 未读，p228-247 洞见未提炼，待后续完成 ingest
 - 叶圣陶《怎样写作》：全书69页已读完，ingest 待执行
 
 ## 知识库状态
 
-- 总页面：1143 页
-- 结构：四层目录（concepts 468页 / sources 98页 / opinions 558页 / topics 18页）
-- 最近 commit：《人性的弱点》卡耐基 ingest（8页）
+- 总页面：1152 页
+- 结构：四层目录（concepts 471页 / sources 99页 / opinions 563页 / topics 18页）
+- 最近 commit：《清单革命》葛文德 ingest（9页）
 
 ## 最近摄入
 - **反应改写操作系统**（2026-06-08）— blog2video 洞见：改变不是意志力模式，而是环境+脚本+重复练习的操作系统升级；关联《The Half Second》、李笑来、刻意练习与元认知。
