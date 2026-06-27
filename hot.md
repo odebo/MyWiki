@@ -11,6 +11,11 @@ title: Hot Cache — 最近上下文
 
 ## 最近摄入（2026-06-27）
 
+- **《丰田模式（实践手册篇）》杰弗瑞·莱克；大卫·梅尔** — 新增 10 页：5 concepts + 4 opinions + 1 source
+  - 核心框架：丰田4P模型（Philosophy理念/Process流程/People人员/Problem Solving问题解决，地基关系非并列）；TPS两大支柱（JIT准时化+Jidoka自働化，共同本质是"让问题立刻可见"）；7种浪费（生产过剩最严重+第8种员工智慧浪费）；A3报告+5Why（5Why挖根因+A3一页纸呈现，完整闭环）；现场Gemba+改善Kaizen（去现场看真实+持续小步改进）
+  - 关键命题：长期理念优于短期利润 / 流程优于结果（盯流程非盯KPI）/ 解决问题优于达成指标 / 人员发展优于工具引进（学丰田只学工具必败）
+  - 关联：长期理念 ↔ Playbook危机常态（丰田玩长线/创业玩求生两种生存模式）；解决问题 ↔ 王钺战略解码（都反对KPI驱动）；人员发展 ↔ 韦尔奇4E领导力（两种管理哲学的根本分歧）；现场Gemba ↔ 奈特鞋狗精神（都强调亲临一线）；A3+5Why ↔ 乃斯PIG In MuD（都是结构化问题解决方法论）
+
 - **《The Founder's Playbook》创始人行动手册** — 新增 10 页：5 concepts + 4 opinions + 1 source
   - 核心框架：创始人三角色（愿景/团队/资本）；PMF验证框架（Sean Ellis测试+留存曲线+自然增长+访谈）；创业融资轮次路径（种子/A/B/C 各阶段目标）；创始团队股权设计（贡献匹配+Vesting+期权池）；创业危机清单（现金流/团队/产品/公关四类）
   - 关键命题：创始人首要任务是融资非产品 / PMF是唯一重要的早期指标 / 股权设计决定公司命运 / 危机是创业常态
@@ -454,10 +459,11 @@ title: Hot Cache — 最近上下文
 
 ## 知识库状态
 
-- 总页面：1287 页
-- 结构：四层目录（concepts 528页 / sources 113页 / opinions 628页 / topics 18页）
+- 总页面：1297 页
+- 结构：四层目录（concepts 533页 / sources 114页 / opinions 632页 / topics 18页）
 - OKF 对齐：Phase 1 已完成（type/title/timestamp 三件套），Phase 2 description 待执行
-- 最近 commit：《活出生命的意义》弗兰克尔 ingest（10页）
+- 最近 commit：《丰田模式实践手册》莱克 ingest（10页）
+- 附件目录 33 本 PDF 已全部 ingest 完毕
 
 ## 最近摄入
 - **反应改写操作系统**（2026-06-08）— blog2video 洞见：改变不是意志力模式，而是环境+脚本+重复练习的操作系统升级；关联《The Half Second》、李笑来、刻意练习与元认知。
