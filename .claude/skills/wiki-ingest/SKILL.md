@@ -155,7 +155,9 @@ sources/
 **concepts/ 页面格式：**
 ```markdown
 ---
-updated: YYYY-MM-DD
+type: concept
+title: 页面标题
+timestamp: 2026-06-27T00:00:00Z
 sources: [[书名-来源摘要]]
 related: [[相关页面A]], [[相关页面B]]
 ---
@@ -170,7 +172,9 @@ related: [[相关页面A]], [[相关页面B]]
 **opinions/ 页面格式：**
 ```markdown
 ---
-updated: YYYY-MM-DD
+type: opinion
+title: 命题标题
+timestamp: 2026-06-27T00:00:00Z
 opinion_of: 作者名
 topic: 主题词（2-4字）
 sources: [[书名-来源摘要]]
@@ -193,7 +197,9 @@ related: []
 **sources/ 页面格式：**
 ```markdown
 ---
-updated: YYYY-MM-DD
+type: source
+title: 书名 — 作者
+timestamp: 2026-06-27T00:00:00Z
 sources: [/绝对路径/book.pdf]
 related: [[相关页面A]]
 ---
@@ -208,6 +214,8 @@ related: [[相关页面A]]
 
 **主题**：[[主题A]] [[主题B]]
 ```
+
+**OKF frontmatter 说明**：`type` / `title` / `timestamp` 三件套是 OKF v0.1 必备字段（2026-06 起 my-wiki 已对齐）。`timestamp` 用 ISO 8601（`YYYY-MM-DDT00:00:00Z`），日期级粒度统一取 `00:00:00Z`。my-wiki 扩展字段 `opinion_of` / `topic` / `sources` / `related` 保留。
 
 **原则：**
 - concepts/opinions 按主题组织，不按章节顺序堆砌

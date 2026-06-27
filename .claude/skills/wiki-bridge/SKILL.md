@@ -9,8 +9,10 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 - Wiki 根目录：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/`
 - hot.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/hot.md`
-- index.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/index.md`（只有 14 行，仅含主题导航）
-- topics/：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/topics/`（17 个主题页，是检索入口）
+- index.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/index.md`（只有 19 行，仅含主题导航，**不含页面列表**）
+- topics/：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/topics/`（18 个主题页，是检索入口）
+
+**OKF frontmatter**（2026-06 起 my-wiki 已对齐 OKF v0.1）：每个页面 frontmatter 含 `type` / `title` / `timestamp`（ISO 8601）三件套；`opinion_of` / `topic` / `sources` / `related` 是 my-wiki 扩展。检索时可信赖这些字段。
 
 ## 触发条件
 
@@ -36,7 +38,7 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 **注意：index.md 现在只有 14 行，不含页面列表，不要在里面搜索。**
 
 检索路径：
-1. 根据用户问题的关键词，判断最相关的 1-2 个主题（从 17 个主题中选：AI技术/产品开发/创业管理/认知科学/学习策略/市场营销/心理学/思维方法/战略规划/教育革新/组织管理/商业哲学/沟通技巧/个人成长/幸福学/领导力/文化研究）
+1. 根据用户问题的关键词，判断最相关的 1-2 个主题（从 18 个主题中选：AI技术/产品开发/创业管理/认知科学/学习策略/市场营销/心理学/思维方法/战略规划/教育革新/组织管理/商业哲学/沟通技巧/个人成长/幸福学/领导力/文化研究/数字社会）
 2. 读对应的 `topics/主题名.md`，在其"相关观点"/"相关概念"/"相关来源"列表中找具体页面
 3. 找到最相关的页面名（最多 3 页），读取这些页面
 
@@ -131,7 +133,7 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ## 注意事项
 
-- **检索路径变了**：index.md 只有 14 行，检索必须走 `topics/主题.md` → 具体页面，不要在 index.md 里搜
+- **检索路径变了**：index.md 只有 19 行，检索必须走 `topics/主题.md` → 具体页面，不要在 index.md 里搜
 - **不要强制触发**：若对话明显是代码任务（改 bug、写函数），跳过前向注入
 - **不要重复已知**：若 Wiki 内容用户显然已知（刚讨论过），不必再引用
 - **提议而非强制**：后向 ingest 永远先提议，用户确认再执行
