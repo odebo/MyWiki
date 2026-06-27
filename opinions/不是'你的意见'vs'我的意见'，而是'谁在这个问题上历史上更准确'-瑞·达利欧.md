@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 不是'你的意见'vs'我的意见'，而是'谁在这个问题上历史上更准确'。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 瑞·达利欧
 topic: 决策机制
 sources: [[credibility-weighting]]

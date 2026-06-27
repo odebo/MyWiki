@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 知识库衰败的原因不是阅读或思考，而是书记员工作——人会疲惫，LLM不会，使个人规模的持久知识库首次变得可行。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Andrej Karpathy
 topic: 知识管理
 sources: [[LLM-Wiki模式]]

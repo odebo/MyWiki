@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 客户买的不是软件，而是一个'能干活的agent'——PMF发生在客户的真实业务现场，而不是产品团队的办公室。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Bob McGrew
 topic: 组织模式
 sources: [[FDE前沿部署工程师模式]]

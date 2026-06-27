@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 进托邦（Protopia）
+timestamp: 2026-06-24T00:00:00Z
 sources: [[5000天后的世界-凯文凯利]]
 related: [[黑天鹅-应对策略]], [[从0到1-未来观与规划]]
 ---

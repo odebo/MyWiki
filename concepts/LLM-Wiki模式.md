@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: LLM Wiki 模式
+timestamp: 2026-05-25T00:00:00Z
 sources: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f]
 related: [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]], [[claude-obsidian]], [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]]
 ---

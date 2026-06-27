@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: 社交与情绪学习（SEL）
+timestamp: 2026-06-25T00:00:00Z
 sources: [[三重专注力-丹尼尔戈尔曼-彼得圣吉]]
 related: [[认知控制-戈尔曼]]
 ---

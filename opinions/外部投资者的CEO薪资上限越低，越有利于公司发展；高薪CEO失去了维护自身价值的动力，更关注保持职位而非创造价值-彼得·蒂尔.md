@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 外部投资者的CEO薪资上限越低，越有利于公司发展；高薪CEO失去了维护自身价值的动力，更关注保持职位而非创造价值。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 彼得·蒂尔
 topic: 企业文化
 sources: [[从0到1-基础文化与创始人]]

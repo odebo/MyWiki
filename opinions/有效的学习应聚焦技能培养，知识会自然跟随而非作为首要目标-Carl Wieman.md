@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 有效的学习应聚焦技能培养，知识会自然跟随而非作为首要目标。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Carl Wieman
 topic: 教育革新
 sources: [[刻意练习-应用框架]]

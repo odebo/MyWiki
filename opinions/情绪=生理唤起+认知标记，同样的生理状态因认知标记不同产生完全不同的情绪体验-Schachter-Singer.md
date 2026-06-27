@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 情绪=生理唤起+认知标记，同样的生理状态因认知标记不同产生完全不同的情绪体验。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Schachter-Singer
 topic: 心理学
 sources: [[情绪价值公式]]

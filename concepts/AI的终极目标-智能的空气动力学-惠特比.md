@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-26
+type: concept
+title: AI的终极目标：智能的空气动力学
+timestamp: 2026-06-26T00:00:00Z
 sources: [[人人都该懂的人工智能-布莱惠特比]]
 related: [[AI技术]], [[认知科学]]
 ---

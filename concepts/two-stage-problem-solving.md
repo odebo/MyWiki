@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: 两段式问题解决法
+timestamp: 2026-05-22T00:00:00Z
 sources: [/tmp/toyota_book.pdf]
 related: [[toyota-business-practice]], [[what-why-how]], [[zero-page]], [[asada-taku]]
 ---

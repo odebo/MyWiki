@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-21
+type: concept
+title: Wiki 三层目录结构
+timestamp: 2026-05-21T00:00:00Z
 sources: [https://github.com/AgriciDaniel/claude-obsidian]
 related: [[LLM-Wiki模式]], [[claude-obsidian]], [[wiki迁移方案]]
 ---

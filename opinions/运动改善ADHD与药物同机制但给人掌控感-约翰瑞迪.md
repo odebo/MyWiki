@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: opinion
+title: 运动改善ADHD与药物同机制但给人掌控感
+timestamp: 2026-06-24T00:00:00Z
 opinion_of: 约翰·瑞迪
 topic: 认知科学 / 心理学
 sources: [[运动改造大脑-约翰瑞迪]]

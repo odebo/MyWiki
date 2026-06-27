@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: source
+title: 《商业的本质》— 杰克·韦尔奇
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[jack-welch]], [[4e1p-leadership]], [[vitality-curve]], [[candor-culture]], [[mission-values-behaviors]], [[strategy-four-questions]], [[crisis-management-welch]]
 ---

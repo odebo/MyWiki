@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 动力 vs 意志力
+timestamp: 2026-06-24T00:00:00Z
 sources: [[微习惯-斯蒂芬盖斯]]
 related: [[微习惯策略-盖斯]], [[福格行为模型]]
 ---

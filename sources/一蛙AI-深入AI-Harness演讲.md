@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-01
+type: source
+title: 一蛙AI：深入AI Harness演讲探讨了人工智能治理框架
+timestamp: 2026-06-01T00:00:00Z
 sources: [https://v.douyin.com/CZhv2TgExGQ/]
 related: [[AI-Harness-工程架构模式]], [[Anthropic-harness-design-long-running-apps]], [[系统能力与确定性]]
 ---

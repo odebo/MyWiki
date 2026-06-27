@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-26
+type: concept
+title: TFT 人际策略
+timestamp: 2026-05-26T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/1354_跃迁：成为高手的技术_古典.pdf]
 related: [[跃迁-内在修炼]], [[清晰思考-想要重要的东西]]
 ---

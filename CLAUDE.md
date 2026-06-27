@@ -15,7 +15,7 @@ git add -A && git commit -m "wiki: <简述>" && git push
 grep "^## \[" log.md | tail -5
 
 # 统计页面数
-ls concepts/ opinions/ sources/ | grep -c ".md"
+ls concepts/ opinions/ sources/ topics/ | grep -c ".md"
 ```
 
 ## 仓库结构
@@ -26,16 +26,18 @@ ls concepts/ opinions/ sources/ | grep -c ".md"
 concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
 opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
 sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
-topics/     # 主题聚合页（17个大主题，连接 opinions/concepts/sources，是图谱的中间层）
+topics/     # 主题聚合页（约18个大主题，连接 opinions/concepts/sources，是图谱的中间层）
 hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
 index.md    # 全量目录，按四层分类列出所有页面
 log.md      # 追加写入的操作日志（只追加，不删改）
-raw/        # 原始资料（只读，不修改）
+raw/        # 原始资料（只读，不修改）；图片等附件在 raw/assets/
 ```
 
-**图谱拓扑**：index → topics（17个）→ opinions/concepts/sources（多对多）
+**图谱拓扑**：index → topics → opinions/concepts/sources（多对多）
 - 每个 opinion 在末尾写 `**主题**：[[主题A]] [[主题B]]` 建立反向链接
 - 一个节点可以属于多个主题，Obsidian 图谱自动形成网状结构
+
+> ⚠️ 仓库根目录还有一份 `AGENTS.md`，它描述的是旧的「三层目录 + entities/」schema，已被当前四层结构取代，**以本文件为准**。如需同步可顺手更新 AGENTS.md。
 
 ## 可用 Skills
 
@@ -119,4 +121,8 @@ related: [[对立观点页]], [[支持观点页]]
 **核心证据/论据**：作者用什么支撑。
 
 **可被挑战**：什么情况下这个观点会失效或被反驳。
+
+**主题**：[[主题A]] [[主题B]]
 ```
+
+末尾的 `**主题**：` 行是 opinions 进入 topic 图谱的反向链接，**不可省略**。

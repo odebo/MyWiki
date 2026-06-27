@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 在 AI 能力日趋同质化的时代，'AI 驱动'本身无法作为竞争定位，品牌和差异化定位才是唯一出路。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Arielle Jackson
 topic: 产品定位
 sources: [[AI产品定位]]

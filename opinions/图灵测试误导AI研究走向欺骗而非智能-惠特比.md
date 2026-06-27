@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-26
+type: opinion
+title: 图灵测试误导AI研究走向欺骗而非智能
+timestamp: 2026-06-26T00:00:00Z
 opinion_of: 布莱·惠特比
 topic: AI技术
 sources: [[人人都该懂的人工智能-布莱惠特比]]

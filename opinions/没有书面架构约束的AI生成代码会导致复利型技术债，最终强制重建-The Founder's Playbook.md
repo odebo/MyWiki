@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 没有书面架构约束的AI生成代码会导致复利型技术债，最终强制重建。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: The Founder's Playbook
 topic: 技术债务
 sources: [[AI时代创业陷阱]]

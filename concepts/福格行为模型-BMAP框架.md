@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: concept
+title: 福格行为模型：B=MAP框架
+timestamp: 2026-06-23T00:00:00Z
 sources: [dedao-downloads/output/Ebook/59484_福格行为模型_【美】B.J.福格.pdf]
 related: [[微小习惯设计]], [[锚点提示设计]], [[情绪庆祝机制]], [[坏习惯终止策略]], [[四步习惯回路]], [[身份认同驱动习惯]]
 ---

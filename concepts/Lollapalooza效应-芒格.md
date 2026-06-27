@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: concept
+title: Lollapalooza效应-芒格
+timestamp: 2026-06-23T00:00:00Z
 sources: [dedao-downloads/output/Ebook/107763_芒格之道_查理·芒格.pdf]
 related: [[多学科思维模型格栅-芒格]], [[心理偏差清单-芒格]], [[芒格投资哲学]]
 ---

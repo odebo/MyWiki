@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI产品应该像呼吸一样有进有出，敢删比敢做更重要。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: 产品设计
 sources: [[速度引擎-Anthropic模式]]

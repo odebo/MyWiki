@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 当 AI 让写代码变得几乎免费，产品经理最值钱的能力变成了判断力。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: AI产品管理
 sources: [[AI时代PM能力体系]]

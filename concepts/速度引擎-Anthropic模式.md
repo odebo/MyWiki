@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-26
+type: concept
+title: 五层速度引擎（Anthropic 模式）
+timestamp: 2026-05-26T00:00:00Z
 sources: [https://mp.weixin.qq.com/s/d6AdPlVIodayzVbz7L5sPQ]
 related: [[AI时代PM能力体系]], [[临时性思维]], [[FDE模式]], [[AI产品定位]], [[无限心灵管理者]]
 ---

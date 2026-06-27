@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-26
+type: opinion
+title: 家中最不安全的IoT设备决定整个网络的安全水平
+timestamp: 2026-06-26T00:00:00Z
 opinion_of: 霍尔格·福兰德
 topic: 数字社会
 sources: [[后数字时代-霍尔格福兰德]]

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 倾听科技
+timestamp: 2026-06-24T00:00:00Z
 sources: [[5000天后的世界-凯文凯利]]
 related: [[刻意练习-心理表征]], [[清晰思考-决策框架]]
 ---

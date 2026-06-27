@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: opinion
+title: GAFA等巨头在25年内将被新兴企业取代
+timestamp: 2026-06-24T00:00:00Z
 opinion_of: 凯文·凯利
 topic: 创业管理 / AI技术
 sources: [[5000天后的世界-凯文凯利]]

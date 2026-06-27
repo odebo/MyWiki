@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: PayPal黑帮是硅谷最持久的权力网络
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 马克斯·查夫金
 topic: 创业管理
 sources: [[逆势者-彼得·蒂尔传-马克斯·查夫金]]

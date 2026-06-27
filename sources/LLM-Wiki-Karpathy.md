@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: source
+title: LLM Wiki（Karpathy gist）
+timestamp: 2026-05-25T00:00:00Z
 sources: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f]
 related: [[LLM-Wiki模式]], [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]], [[Wiki三层目录结构]], [[Hot-Cache]]
 ---

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: Echo + Delta团队组合本质上就是创业团队训练，Palantir Mafia孵化了350+家公司不是巧合。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Shyam Sankar
 topic: 人才培养
 sources: [[FDE前沿部署工程师模式]]

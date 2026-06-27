@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI输出'有AI味'是因为缺乏明确的评估标准，而非模型本身的问题。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Anthropic
 topic: AI评估
 sources: [[创意评估循环-生成器与评估器分离]]

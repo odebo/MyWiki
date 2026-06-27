@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-26
+type: concept
+title: 中文屋实验：AI的理解之争
+timestamp: 2026-06-26T00:00:00Z
 sources: [[人人都该懂的人工智能-布莱惠特比]]
 related: [[AI技术]], [[认知科学]], [[思维方法]]
 ---

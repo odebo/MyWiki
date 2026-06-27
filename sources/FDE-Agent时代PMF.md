@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: source
+title: FDE-Agent时代PMF（Founder Park · Bob McGrew 深度复盘）
+timestamp: 2026-05-25T00:00:00Z
 sources: [https://mp.weixin.qq.com/s/8oUv5H9qvjpq_-aCiJ9f6A]
 related: [[FDE前沿部署工程师模式]], [[AI原生创业生命周期]], [[AI时代创业陷阱]], [[从0到1-创业路径与销售]], [[无限心灵管理者]]
 ---

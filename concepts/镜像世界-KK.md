@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 镜像世界（Mirror World）
+timestamp: 2026-06-24T00:00:00Z
 sources: [[5000天后的世界-凯文凯利]]
 related: [[AI作为奇迹材料]], [[AI产品定位]]
 ---

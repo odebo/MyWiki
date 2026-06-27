@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: 危机管理五步骤（韦尔奇框架）
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[candor-culture]], [[黑天鹅-应对策略]], [[清晰思考-决策框架]]
 ---

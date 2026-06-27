@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: 早期技术优势会在十年后转化为负债必须主动抛弃而非被动延续
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 瑞尼·雷吉梅克（ASML 研究）
 topic: 技术转型
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]

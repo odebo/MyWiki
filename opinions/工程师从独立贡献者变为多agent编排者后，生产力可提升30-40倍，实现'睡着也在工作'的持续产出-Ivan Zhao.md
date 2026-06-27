@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 工程师从独立贡献者变为多agent编排者后，生产力可提升30-40倍，实现'睡着也在工作'的持续产出。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ivan Zhao
 topic: AI转型
 sources: [[无限心灵管理者]]

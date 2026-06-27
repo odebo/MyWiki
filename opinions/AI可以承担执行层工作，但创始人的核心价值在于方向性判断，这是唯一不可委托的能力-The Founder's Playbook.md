@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI可以承担执行层工作，但创始人的核心价值在于方向性判断，这是唯一不可委托的能力。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: The Founder's Playbook
 topic: 创业管理
 sources: [[创始人角色演进]]

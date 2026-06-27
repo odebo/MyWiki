@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: 由技术天才组成的团队需要催化型领导而非权威型领导
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 瑞尼·雷吉梅克（ASML 研究）
 topic: 领导力
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]

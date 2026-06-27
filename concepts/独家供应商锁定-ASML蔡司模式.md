@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: 独家供应商锁定（ASML-蔡司模式）
+timestamp: 2026-06-25T00:00:00Z
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]
 related: [[从0到1-垄断哲学]], [[竞争性定位-跨越鸿沟]]
 ---

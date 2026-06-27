@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: opinion
+title: 混乱是童年的主旋律它不是需要解决的bug而是人类学习的核心功能
+timestamp: 2026-06-24T00:00:00Z
 opinion_of: 艾莉森·高普尼克
 sources: [[园丁与木匠-高普尼克]]
 related: [[探索与运用-高普尼克]], [[童年与智力进化-高普尼克]]

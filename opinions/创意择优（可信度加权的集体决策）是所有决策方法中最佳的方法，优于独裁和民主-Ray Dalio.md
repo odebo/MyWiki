@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 创意择优（可信度加权的集体决策）是所有决策方法中最佳的方法，优于独裁和民主。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ray Dalio
 topic: 决策机制
 sources: [[meritocracy]]

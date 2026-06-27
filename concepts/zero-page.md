@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: 零页纸 — 深度思考内化的终极状态
+timestamp: 2026-05-22T00:00:00Z
 sources: [/tmp/toyota_book.pdf]
 related: [[ichimai-framework]], [[toyota-business-practice]], [[two-stage-problem-solving]], [[asada-taku]]
 ---

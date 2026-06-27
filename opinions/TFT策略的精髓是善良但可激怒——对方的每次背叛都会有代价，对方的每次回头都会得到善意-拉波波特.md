@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: TFT策略的精髓是善良但可激怒——对方的每次背叛都会有代价，对方的每次回头都会得到善意。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 拉波波特
 topic: 博弈论
 sources: [[TFT人际策略]]

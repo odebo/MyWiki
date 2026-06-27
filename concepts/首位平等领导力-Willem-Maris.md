@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: 首位平等领导力（Willem Maris风格）
+timestamp: 2026-06-25T00:00:00Z
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]
 related: [[4e1p-leadership]], [[领导基调设定-霍夫曼]]
 ---

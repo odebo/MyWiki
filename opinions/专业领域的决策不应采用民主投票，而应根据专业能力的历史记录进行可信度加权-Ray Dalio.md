@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 专业领域的决策不应采用民主投票，而应根据专业能力的历史记录进行可信度加权。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ray Dalio
 topic: 专业决策
 sources: [[meritocracy]]

@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-23
+type: concept
+title: AI 时代创业陷阱
+timestamp: 2026-05-23T00:00:00Z
 sources: [.cc-connect/attachments/《The Founder's Playbook》（创始人行动手册）.pdf]
 related: [[AI原生创业生命周期]], [[产品市场契合度]], [[The-Founders-Playbook]]
 ---

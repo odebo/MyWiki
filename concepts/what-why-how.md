@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: What / Why / How 三点疑问法
+timestamp: 2026-05-22T00:00:00Z
 sources: [/tmp/toyota_book.pdf]
 related: [[toyota-business-practice]], [[ichimai-framework]], [[two-stage-problem-solving]]
 ---

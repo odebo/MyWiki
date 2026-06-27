@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 领域专业知识通过与AI的持续交互形成测试用例，这些边缘场景的积累构成护城河。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: The Founder's Playbook
 topic: 创业策略
 sources: [[AI创业护城河]]

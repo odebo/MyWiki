@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: PIG In MuD — 泥潭之猪创新六步框架
+timestamp: 2026-06-25T00:00:00Z
 sources: [[走出思维泥潭-罗伯塔乃斯]]
 related: [[认知框架的局限性-乃斯]], [[创造力的可训练性-乃斯]]
 ---

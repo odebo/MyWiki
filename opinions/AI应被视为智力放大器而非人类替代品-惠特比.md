@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-26
+type: opinion
+title: AI应被视为智力放大器而非人类替代品
+timestamp: 2026-06-26T00:00:00Z
 opinion_of: 布莱·惠特比
 topic: AI技术
 sources: [[人人都该懂的人工智能-布莱惠特比]]

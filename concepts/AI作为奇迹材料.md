@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: AI 作为奇迹材料
+timestamp: 2026-05-22T00:00:00Z
 sources: [https://www.notion.com/blog/steam-steel-and-infinite-minds-ai]
 related: [[无限心灵管理者]], [[Ivan-Zhao-AI奇迹材料]], [[闪电式扩张]], [[组织成长五阶段]]
 ---

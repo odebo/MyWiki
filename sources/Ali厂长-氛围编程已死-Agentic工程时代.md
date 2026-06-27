@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-02
+type: source
+title: 阿里厂长《氛围编程已死，欢迎来到 Agent 工程时代》
+timestamp: 2026-06-02T00:00:00Z
 sources: [https://v.douyin.com/KsKaV9B_89M/]
 related: [[Software-3.0与Agentic-Engineering]], [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]], [[无限心灵管理者]]
 ---

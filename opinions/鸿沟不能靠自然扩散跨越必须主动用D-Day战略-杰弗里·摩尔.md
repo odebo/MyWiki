@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 鸿沟不能靠自然扩散跨越必须主动用D-Day战略
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: 杰弗里·摩尔
 topic: 市场扩张
 sources: [[跨越鸿沟-杰弗里摩尔]]

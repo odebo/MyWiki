@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: SpaceX等商业公司介入使登月从国家战略目标变为可能商业化的项目，成本降低20倍重构行业可能性边界。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 张天光
 topic: 太空经济
 sources: [[新太空竞赛]]

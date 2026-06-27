@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: 坦诚文化（Candor）
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[4e1p-leadership]], [[vitality-curve]], [[mission-values-behaviors]], [[radical-transparency]], [[战略解码与必赢之仗]]
 ---

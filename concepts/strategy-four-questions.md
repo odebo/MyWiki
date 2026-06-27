@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: 战略四问（Strategy as Living Document）
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[mission-values-behaviors]], [[战略三环PDE框架]], [[黑天鹅-认知偏差体系]], [[市场竞争分析框架]]
 ---

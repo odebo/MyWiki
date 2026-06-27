@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: 卓越的技术不会自我推销客户需求必须主动验证而非假设
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 瑞尼·雷吉梅克（ASML 研究）
 topic: 技术商业化
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]

@@ -1,3 +1,8 @@
+---
+type: hot-cache
+title: Hot Cache — 最近上下文
+---
+
 # Hot Cache — 最近上下文
 
 > 每次 session 开始先读这里。每次 session 结束执行 "update hot cache" 更新。

@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: source
+title: Ivan Zhao — Steam, Steel, and Infinite Minds
+timestamp: 2026-05-22T00:00:00Z
 sources: [https://www.notion.com/blog/steam-steel-and-infinite-minds-ai]
 related: [[AI作为奇迹材料]], [[无限心灵管理者]]
 ---

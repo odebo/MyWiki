@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 幸福是一种选择而非外在条件，老年人研究显示无人后悔未追求财富。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Karl Pillemer
 topic: 人生哲学
 sources: [[清晰思考-想要重要的东西]]

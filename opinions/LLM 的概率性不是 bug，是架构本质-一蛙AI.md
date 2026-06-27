@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: LLM 的概率性不是 bug，是架构本质。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 一蛙AI
 topic: AI工程
 sources: [[AI-Harness-工程架构模式]]

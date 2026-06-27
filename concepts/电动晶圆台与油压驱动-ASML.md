@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: 电动晶圆台与油压驱动（ASML技术转型）
+timestamp: 2026-06-25T00:00:00Z
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]
 related: [[跨越鸿沟-杰弗里摩尔]]
 ---

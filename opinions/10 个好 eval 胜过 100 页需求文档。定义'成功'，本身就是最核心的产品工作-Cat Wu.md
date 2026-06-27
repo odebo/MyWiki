@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 10 个好 eval 胜过 100 页需求文档。定义'成功'，本身就是最核心的产品工作。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: AI产品设计
 sources: [[Eval设计-定义成功]]

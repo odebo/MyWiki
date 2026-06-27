@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-01
+type: source
+title: Anthropic：Harness Design for Long-Running Application Development
+timestamp: 2026-06-01T00:00:00Z
 sources: [https://www.anthropic.com/engineering/harness-design-long-running-apps]
 related: [[创意评估循环-生成器与评估器分离]], [[Eval设计-定义成功]], [[临时性思维]]
 ---

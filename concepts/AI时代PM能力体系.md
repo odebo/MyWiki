@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-26
+type: concept
+title: AI 时代 PM 五层能力体系
+timestamp: 2026-05-26T00:00:00Z
 sources: [https://mp.weixin.qq.com/s/d6AdPlVIodayzVbz7L5sPQ]
 related: [[速度引擎-Anthropic模式]], [[Eval设计-定义成功]], [[临时性思维]], [[AI产品定位]], [[无限心灵管理者]], [[FDE模式]]
 ---

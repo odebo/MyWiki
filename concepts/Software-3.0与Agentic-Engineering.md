@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-02
+type: concept
+title: Software 3.0 与 Agentic Engineering
+timestamp: 2026-06-02T00:00:00Z
 sources: [抖音 Ali厂长《氛围编程已死，欢迎来到Agent工程时代》, Karpathy × 红杉 Stephanie Zhan 对话]
 related: [[Software 3.0时代程序员从代码作者变成计算劳动力操作者-Karpathy]], [[无限心灵管理者]], [[AI时代PM能力体系]], [[FDE前沿部署工程师模式]], [[AI-Harness-工程架构模式]]
 ---

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 两个"自我"：DAN与MoMo
+timestamp: 2026-06-24T00:00:00Z
 sources: [[幸福心力-梅格索尔特]]
 related: [[看听感科学正念体系-梅格索尔特]], [[七大复原肌-梅格索尔特]]
 ---

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 大多数人的盲点是把症状当问题，把不舒服当成该回避的信号，而实际上问题暴露意味着有机会改进。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ray Dalio
 topic: 问题解决
 sources: [[five-step-process]]

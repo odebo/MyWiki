@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-26
+type: concept
+title: Eval 设计：定义"成功长什么样"
+timestamp: 2026-05-26T00:00:00Z
 sources: [https://mp.weixin.qq.com/s/d6AdPlVIodayzVbz7L5sPQ]
 related: [[AI时代PM能力体系]], [[速度引擎-Anthropic模式]], [[临时性思维]]
 ---

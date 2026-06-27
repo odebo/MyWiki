@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-21
+type: concept
+title: Wiki 迁移方案
+timestamp: 2026-05-21T00:00:00Z
 sources: []
 related: [[Wiki三层目录结构]], [[LLM-Wiki模式]], [[Hot-Cache]]
 ---

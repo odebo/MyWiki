@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-21
+type: source
+title: claude-obsidian
+timestamp: 2026-05-21T00:00:00Z
 sources: [https://github.com/AgriciDaniel/claude-obsidian]
 related: [[LLM-Wiki模式]], [[Hot-Cache]], [[Wiki三层目录结构]], [[MCP文件系统集成]]
 ---

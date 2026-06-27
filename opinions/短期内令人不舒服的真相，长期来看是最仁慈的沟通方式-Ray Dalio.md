@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 短期内令人不舒服的真相，长期来看是最仁慈的沟通方式。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ray Dalio
 topic: 组织沟通
 sources: [[radical-transparency]]

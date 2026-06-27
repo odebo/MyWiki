@@ -1,3 +1,8 @@
+---
+type: index
+title: Index
+---
+
 # Index
 
 四层结构：**concepts/**（定义/框架）、**opinions/**（强命题）、**sources/**（来源）、**topics/**（主题聚合，图谱中间层）。

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 痛苦不是需要逃避的负面情绪，而是提示成长机会的信号。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ray Dalio
 topic: 个人成长
 sources: [[pain-reflection-progress]]

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 共享信息+共享判断标准让每个人独立做出的判断大概率一致，不需要审批。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: 团队协作
 sources: [[速度引擎-Anthropic模式]]

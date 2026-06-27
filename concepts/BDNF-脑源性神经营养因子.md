@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: BDNF（脑源性神经营养因子）
+timestamp: 2026-06-24T00:00:00Z
 sources: [[运动改造大脑-约翰瑞迪]]
 related: [[刻意练习-大脑可塑性]], [[福格行为模型]]
 ---

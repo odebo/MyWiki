@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 数据和论文告诉你模型能做什么，直觉和手感告诉你模型会在哪里搞砸。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: 模型素养
 sources: [[AI时代PM能力体系]]

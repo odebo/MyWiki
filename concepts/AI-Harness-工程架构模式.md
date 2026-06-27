@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-01
+type: concept
+title: AI Harness 工程架构模式
+timestamp: 2026-06-01T00:00:00Z
 sources: [douyin://7642035775660841722, https://my.feishu.cn/docx/MjhMduN7Uoud80xqTLvcSwovnuf]
 related: [[Anthropic-harness-design-long-running-apps]], [[系统能力与确定性]], [[FDE前沿部署工程师模式]], [[临时性思维]], [[创意评估循环-生成器与评估器分离]]
 ---

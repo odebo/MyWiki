@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI 是这个时代的'奇迹材料'，如同钢铁和半导体，掌握它的人将定义这个时代。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Ivan Zhao
 topic: 技术革命
 sources: [[AI作为奇迹材料]]

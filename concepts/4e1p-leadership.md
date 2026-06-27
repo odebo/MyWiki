@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: 4E+1P 领导力框架
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[vitality-curve]], [[candor-culture]], [[mission-values-behaviors]], [[战略领导力]], [[从0到1-基础文化与创始人]]
 ---

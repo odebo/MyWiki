@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 帮助他人改变的核心是帮他们做想做的事而非说服他们做应该做的事
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: B.J.福格
 topic: 帮助他人改变
 sources: [[福格行为模型]]

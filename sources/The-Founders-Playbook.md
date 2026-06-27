@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-23
+type: source
+title: The Founder's Playbook: Building an AI-Native Startup
+timestamp: 2026-05-23T00:00:00Z
 sources: [.cc-connect/attachments/《The Founder's Playbook》（创始人行动手册）.pdf]
 related: [[AI原生创业生命周期]], [[AI时代创业陷阱]], [[创始人角色演进]], [[AI创业护城河]]
 ---

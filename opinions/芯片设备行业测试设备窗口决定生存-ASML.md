@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: 在芯片设备行业错过第一台测试设备销售就等于错过整个市场
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 瑞尼·雷吉梅克（ASML 研究）
 topic: 芯片行业竞争规律
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]

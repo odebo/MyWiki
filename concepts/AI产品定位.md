@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: AI 产品定位
+timestamp: 2026-05-22T00:00:00Z
 sources: [https://review.firstround.com/positioning-playbook-for-ai-products/]
 related: [[AI作为奇迹材料]], [[FirstRound-AI产品定位手册]], [[点线面体]], [[用户画像]]
 ---

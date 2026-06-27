@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-25
+type: concept
+title: 活力曲线与分化原则
+timestamp: 2026-05-25T00:00:00Z
 sources: [/Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/365_商业的本质_[美] 杰克·韦尔奇.pdf]
 related: [[4e1p-leadership]], [[candor-culture]], [[mission-values-behaviors]], [[刻意练习-天才培养路径]], [[从0到1-幂次法则]]
 ---

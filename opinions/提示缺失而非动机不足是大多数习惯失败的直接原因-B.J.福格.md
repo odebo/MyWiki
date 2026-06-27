@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 提示缺失而非动机不足是大多数习惯失败的直接原因
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: B.J.福格
 topic: 习惯提示
 sources: [[福格行为模型]]

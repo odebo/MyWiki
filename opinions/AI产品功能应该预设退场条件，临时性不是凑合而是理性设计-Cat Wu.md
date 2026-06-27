@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI产品功能应该预设退场条件，临时性不是凑合而是理性设计。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Cat Wu
 topic: 产品设计
 sources: [[临时性思维]]

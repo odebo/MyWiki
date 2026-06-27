@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 情绪而非重复次数才是习惯形成的真正机制
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: B.J.福格
 topic: 习惯形成
 sources: [[福格行为模型]]

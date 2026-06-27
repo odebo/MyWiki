@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: Software 3.0时代程序员从代码作者变成计算劳动力操作者。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: Karpathy
 topic: AI编程
 sources: [[Software-3.0与Agentic-Engineering]]

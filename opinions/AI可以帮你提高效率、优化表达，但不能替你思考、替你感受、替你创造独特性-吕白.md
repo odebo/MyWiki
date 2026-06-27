@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: AI可以帮你提高效率、优化表达，但不能替你思考、替你感受、替你创造独特性。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 吕白
 topic: 内容创作
 sources: [[wechat-ai-tech-writing]]

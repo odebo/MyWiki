@@ -1,6 +1,7 @@
 ---
-updated: 2026-06-22
 type: topic
+title: AI技术
+timestamp: 2026-06-22T00:00:00Z
 ---
 
 # AI技术

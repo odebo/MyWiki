@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 动机是最不可靠的行为变量应被用于选择而非驱动
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: B.J.福格
 topic: 动机与习惯
 sources: [[福格行为模型]]

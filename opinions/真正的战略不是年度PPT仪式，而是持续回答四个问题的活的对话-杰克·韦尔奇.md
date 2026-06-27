@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-22
+type: opinion
+title: 真正的战略不是年度PPT仪式，而是持续回答四个问题的活的对话。
+timestamp: 2026-06-22T00:00:00Z
 opinion_of: 杰克·韦尔奇
 topic: 战略管理
 sources: [[strategy-four-questions]]

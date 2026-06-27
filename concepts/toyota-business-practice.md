@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: TBP — 丰田商务实践八大步骤
+timestamp: 2026-05-22T00:00:00Z
 sources: [/tmp/toyota_book.pdf]
 related: [[ichimai-framework]], [[what-why-how]], [[two-stage-problem-solving]], [[zero-page]], [[asada-taku]]
 ---

@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-23
+type: opinion
+title: 行为改变失败是设计失败而非意志力薄弱
+timestamp: 2026-06-23T00:00:00Z
 opinion_of: B.J.福格
 topic: 行为改变
 sources: [[福格行为模型]]

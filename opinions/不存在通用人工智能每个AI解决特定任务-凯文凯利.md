@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: opinion
+title: 不存在通用人工智能每个AI解决特定任务
+timestamp: 2026-06-24T00:00:00Z
 opinion_of: 凯文·凯利
 topic: AI技术 / 思维方法
 sources: [[5000天后的世界-凯文凯利]]

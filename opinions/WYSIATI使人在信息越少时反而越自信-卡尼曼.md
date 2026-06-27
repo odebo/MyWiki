@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: opinion
+title: WYSIATI使人在信息越少时反而越自信
+timestamp: 2026-06-25T00:00:00Z
 opinion_of: 丹尼尔·卡尼曼
 topic: 认知科学
 sources: [[思考快与慢-丹尼尔卡尼曼]]

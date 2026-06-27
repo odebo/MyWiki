@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-25
+type: concept
+title: 长冲程短冲程电机（ASML精密定位技术）
+timestamp: 2026-06-25T00:00:00Z
 sources: [[光刻巨人ASML崛起之路-瑞尼雷吉梅克]]
 related: [[刻意练习-核心定义与特征]], [[从0到1-垄断哲学]]
 ---

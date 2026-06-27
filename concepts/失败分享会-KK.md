@@ -1,5 +1,7 @@
 ---
-updated: 2026-06-24
+type: concept
+title: 失败分享会
+timestamp: 2026-06-24T00:00:00Z
 sources: [[5000天后的世界-凯文凯利]]
 related: [[candor-culture]], [[学习型文化与心理安全]]
 ---

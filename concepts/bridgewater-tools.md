@@ -1,5 +1,7 @@
 ---
-updated: 2026-05-22
+type: concept
+title: 桥水工具体系
+timestamp: 2026-05-22T00:00:00Z
 sources: [.cc-connect/attachments/144892_原则（全新增订版）_【美】瑞·达利欧.pdf]
 related: [[Ray-Dalio-原则]], [[meritocracy]], [[credibility-weighting]], [[pain-reflection-progress]], [[ray-dalio]]
 ---

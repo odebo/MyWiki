@@ -1,6 +1,7 @@
 ---
-updated: 2026-06-25
 type: source
+title: 《光刻巨人：ASML崛起之路》瑞尼·雷吉梅克
+timestamp: 2026-06-25T00:00:00Z
 ---
 
 # 《光刻巨人：ASML崛起之路》瑞尼·雷吉梅克
