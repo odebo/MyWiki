@@ -15,5 +15,5 @@ title: Index
 
 ---
 
-页面数：1387（concepts 578 / sources 123 / opinions 668 / topics 18）
-最后更新：2026-06-27
+页面数：1397（concepts 583 / sources 124 / opinions 672 / topics 18）
+最后更新：2026-06-28
