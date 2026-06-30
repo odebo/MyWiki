@@ -2,8 +2,11 @@
   "mcpServers": {
     "wiki": {
       "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/Users/zhuqichen/Documents/WorkSpace/MyWiki"]
+      "command": "uvx",
+      "args": ["--from", "/Users/zhuqichen/Documents/WorkSpace/my-wiki-mcp", "wiki-mcp"],
+      "env": {
+        "WIKI_ROOT": "/Users/zhuqichen/Documents/WorkSpace/my-wiki"
+      }
     }
   }
 }
