@@ -2,8 +2,13 @@
   "mcpServers": {
     "wiki": {
       "type": "stdio",
-      "command": "uvx",
-      "args": ["--from", "/Users/zhuqichen/Documents/WorkSpace/my-wiki-mcp", "wiki-mcp"],
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/Users/zhuqichen/Documents/WorkSpace/my-wiki-mcp",
+        "wiki-mcp"
+      ],
       "env": {
         "WIKI_ROOT": "/Users/zhuqichen/Documents/WorkSpace/my-wiki"
       }
