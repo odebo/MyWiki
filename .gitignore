@@ -1,7 +1,7 @@
 # Wiki content is all tracked; nothing to ignore at root.
 # (Obsidian's workspace.json is the only churn file — keep it ignored.)
-.obsidian/workspace.json
-.obsidian/cache/
+wiki/.obsidian/workspace.json
+wiki/.obsidian/cache/
 
 # Embedded MCP server (mcp/) — ignore its build artifacts only.
 mcp/.venv/

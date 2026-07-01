@@ -10,7 +10,7 @@
         "wiki-mcp"
       ],
       "env": {
-        "WIKI_ROOT": "/Users/zhuqichen/Documents/WorkSpace/my-wiki"
+        "WIKI_ROOT": "/Users/zhuqichen/Documents/WorkSpace/my-wiki/wiki"
       }
     }
   }

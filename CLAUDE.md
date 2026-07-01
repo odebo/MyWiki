@@ -2,7 +2,29 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-这是一个个人知识库（基于 Karpathy LLM Wiki 模式）。以下是完整操作规则。
+这是一个个人知识库（基于 Karpathy LLM Wiki 模式），同时捆绑了配套的 MCP server 工具。以下是完整操作规则。
+
+## 仓库顶层结构
+
+```
+my-wiki/
+├── wiki/         # 知识内容（markdown 笔记）— LLM Wiki 主体
+│   ├── concepts/
+│   ├── opinions/
+│   ├── sources/
+│   ├── topics/
+│   ├── raw/      # 原始资料（只读）
+│   ├── hot.md
+│   ├── index.md
+│   ├── log.md
+│   └── .obsidian/  # Obsidian vault 配置（vault root = wiki/）
+├── mcp/          # wiki-mcp server 源码（Python，未来可独立开源）
+├── .mcp.json     # MCP server 配置（WIKI_ROOT 指向 wiki/）
+├── CLAUDE.md     # 本文件
+└── .gitignore
+```
+
+**关键约定**：所有知识内容都在 `wiki/` 子目录下；`mcp/` 是工具代码，不属于知识内容。下文所有路径如无特别说明，都相对于 `wiki/`。
 
 ## 常用命令
 
@@ -12,25 +34,26 @@ git pull
 git add -A && git commit -m "wiki: <简述>" && git push
 
 # 查看最近操作记录
-grep "^## \[" log.md | tail -5
+grep "^## \[" wiki/log.md | tail -5
 
 # 统计页面数
-ls concepts/ opinions/ sources/ topics/ | grep -c ".md"
+ls wiki/concepts/ wiki/opinions/ wiki/sources/ wiki/topics/ | grep -c ".md"
 ```
 
-## 仓库结构
+## 知识库结构（wiki/）
 
-这不是代码项目，而是 markdown 知识库。四层目录 + 四个根目录元文件。截至 2026-06-27 约 1287 页（528 concepts / 629 opinions / 113 sources / 18 topics），且以每次 ingest +10 页的速度持续增长——这是成熟大型知识库，新建/修改页面时务必考虑对现有交叉引用的影响，不要轻率重命名或删除已有页面。
+四层目录 + 四个根目录元文件。截至 2026-06-27 约 1287 页（528 concepts / 629 opinions / 113 sources / 18 topics），且以每次 ingest +10 页的速度持续增长——这是成熟大型知识库，新建/修改页面时务必考虑对现有交叉引用的影响，不要轻率重命名或删除已有页面。
 
 ```
-concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
-opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
-sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
-topics/     # 主题聚合页（约18个大主题，连接 opinions/concepts/sources，是图谱的中间层）
-hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
-index.md    # 全量目录，按四层分类列出所有页面
-log.md      # 追加写入的操作日志（只追加，不删改）
-raw/        # 原始资料（只读，不修改）；图片等附件在 raw/assets/
+wiki/
+├── concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
+├── opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
+├── sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
+├── topics/     # 主题聚合页（约18个大主题，连接 opinions/concepts/sources，是图谱的中间层）
+├── hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
+├── index.md    # 全量目录，按四层分类列出所有页面
+├── log.md      # 追加写入的操作日志（只追加，不删改）
+└── raw/        # 原始资料（只读，不修改）；图片等附件在 raw/assets/
 ```
 
 **图谱拓扑**：index → topics → opinions/concepts/sources（多对多）
@@ -55,25 +78,25 @@ raw/        # 原始资料（只读，不修改）；图片等附件在 raw/asse
 
 ## 读取顺序（每次操作前）
 
-1. 先读 `hot.md` — 获取近期上下文，避免冷启动
-2. 再读 `index.md` — 定位相关页面
+1. 先读 `wiki/hot.md` — 获取近期上下文，避免冷启动
+2. 再读 `wiki/index.md` — 定位相关页面
 3. 按需读取具体页面
 
 ## Ingest（添加新资料）
 
 1. 读取资料，与用户讨论 3 个核心要点（确认再继续）
 2. 创建或更新相关 wiki 页面，按类型放置。**书籍 ingest 的默认产出模式是 `5 concepts + 4 opinions + 1 source`**（见 log.md 历史记录），即每本书提炼 5 个核心概念 + 4 条强命题 + 1 页来源摘要；用户未明确指定数量时按此惯例执行：
-   - 抽象概念（定义/框架/工具）→ `concepts/`
-   - 强命题/观点（某人对某问题的主张）→ `opinions/`（末尾加 `**主题**：[[主题名]]`）
-   - 来源摘要（含作者简介）→ `sources/`
-   - 新主题出现时更新 `topics/` 对应页面
-3. 更新 `index.md`
-4. 追加 `log.md` 一条记录
+   - 抽象概念（定义/框架/工具）→ `wiki/concepts/`
+   - 强命题/观点（某人对某问题的主张）→ `wiki/opinions/`（末尾加 `**主题**：[[主题名]]`）
+   - 来源摘要（含作者简介）→ `wiki/sources/`
+   - 新主题出现时更新 `wiki/topics/` 对应页面
+3. 更新 `wiki/index.md`
+4. 追加 `wiki/log.md` 一条记录
 5. git commit & push
 
 ## Query（查询）
 
-1. 先读 `hot.md`，再读 `index.md` 定位相关页面
+1. 先读 `wiki/hot.md`，再读 `wiki/index.md` 定位相关页面
 2. 读取具体页面，综合回答，注明来源页面
 3. 有价值的分析结论存为新页面，不要让它消失在对话历史里
 
@@ -83,7 +106,7 @@ raw/        # 原始资料（只读，不修改）；图片等附件在 raw/asse
 
 ## Session 结束
 
-执行 "update hot cache" → 更新 `hot.md`，记录本次活跃话题、新增页面、未解问题。
+执行 "update hot cache" → 更新 `wiki/hot.md`，记录本次活跃话题、新增页面、未解问题。
 
 ## 页面格式
 
