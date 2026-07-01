@@ -1,4 +1,4 @@
-"""MCP server exposing the my-wiki knowledge base.
+"""MCP server exposing a Karpathy-style LLM Wiki knowledge base.
 
 Read tools:
 - search_wiki: full-text search
@@ -28,9 +28,9 @@ from mcp.server.fastmcp import FastMCP
 
 from . import parse, search
 
-DEFAULT_WIKI_ROOT = "/Users/zhuqichen/Documents/WorkSpace/my-wiki"
+DEFAULT_WIKI_ROOT = os.environ.get("WIKI_ROOT", "")
 
-mcp = FastMCP("my-wiki")
+mcp = FastMCP("wiki-mcp")
 
 
 def _wiki_root() -> Path:
