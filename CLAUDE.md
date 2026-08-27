@@ -42,14 +42,14 @@ ls wiki/concepts/ wiki/opinions/ wiki/sources/ wiki/topics/ | grep -c ".md"
 
 ## 知识库结构（wiki/）
 
-四层目录 + 四个根目录元文件。截至 2026-06-27 约 1287 页（528 concepts / 629 opinions / 113 sources / 18 topics），且以每次 ingest +10 页的速度持续增长——这是成熟大型知识库，新建/修改页面时务必考虑对现有交叉引用的影响，不要轻率重命名或删除已有页面。
+四层目录 + 四个根目录元文件。截至 2026-08-14 约 3945 页（1866 concepts / 1686 opinions / 373 sources / 20 topics），且以每次 ingest +10 页的速度持续增长——这是成熟大型知识库，新建/修改页面时务必考虑对现有交叉引用的影响，不要轻率重命名或删除已有页面。
 
 ```
 wiki/
 ├── concepts/   # 抽象概念页（定义/框架/工具，中性知识单元）
 ├── opinions/   # 强命题观点页（一条命题一页，有作者/证据/可挑战性）
 ├── sources/    # 来源摘要页（每个原始资料对应一页，含作者简介）
-├── topics/     # 主题聚合页（约18个大主题，连接 opinions/concepts/sources，是图谱的中间层）
+├── topics/     # 主题聚合页（20个大主题，连接 opinions/concepts/sources，是图谱的中间层）
 ├── hot.md      # 热缓存：跨 session 上下文，每次 session 开始先读
 ├── index.md    # 全量目录，按四层分类列出所有页面
 ├── log.md      # 追加写入的操作日志（只追加，不删改）
@@ -66,7 +66,7 @@ wiki/
 
 - `wiki` — 通用查询 / ingest / lint
 - `wiki-ingest` — 专门用于书籍 PDF 的结构化 ingest（分章节阅读、逐章提炼）
-- `wiki-bridge` — 对话中产生洞见后，主动 ingest 回 wiki
+- `wiki-link` — 对话中产生洞见后，主动 ingest 回 wiki
 
 ## 触发条件
 

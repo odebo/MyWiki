@@ -1,5 +1,5 @@
 ---
-name: wiki-bridge
+name: wiki-link
 description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上下文。后向：对话产生洞见后提议 ingest 回 Wiki。触发词："查一下"、"我之前了解过"、"帮我想想"，或 Agent 主动判断话题与 Wiki 相关。
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: wiki-bridge
+name: wiki-link
 description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上下文。后向：对话产生洞见后提议 ingest 回 Wiki。触发词："查一下"、"我之前了解过"、"帮我想想"，或 Agent 主动判断话题与 Wiki 相关。
 ---
 
@@ -7,10 +7,10 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ## Wiki 路径
 
-- Wiki 根目录：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/`
-- hot.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/hot.md`
-- index.md：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/index.md`（只有 19 行，仅含主题导航，**不含页面列表**）
-- topics/：`/Users/zhuqichen/Documents/WorkSpace/my-wiki/topics/`（18 个主题页，是检索入口）
+- Wiki 根目录：`/Users/zhuqichen/MySpace/my-wiki/`
+- hot.md：`/Users/zhuqichen/MySpace/my-wiki/hot.md`
+- index.md：`/Users/zhuqichen/MySpace/my-wiki/index.md`（只有 19 行，仅含主题导航，**不含页面列表**）
+- topics/：`/Users/zhuqichen/MySpace/my-wiki/topics/`（20 个主题页，是检索入口）
 
 **OKF frontmatter**（2026-06 起 my-wiki 已对齐 OKF v0.1）：每个页面 frontmatter 含 `type` / `title` / `timestamp`（ISO 8601）三件套；`opinion_of` / `topic` / `sources` / `related` 是 my-wiki 扩展。检索时可信赖这些字段。
 
@@ -35,10 +35,10 @@ description: Wiki 双向桥接。前向：对话开始时检索 Wiki 注入上�
 
 ### 第 2 步：定位相关页面
 
-**注意：index.md 现在只有 14 行，不含页面列表，不要在里面搜索。**
+**注意：index.md 现在只有 19 行，不含页面列表，不要在里面搜索。**
 
 检索路径：
-1. 根据用户问题的关键词，判断最相关的 1-2 个主题（从 18 个主题中选：AI技术/产品开发/创业管理/认知科学/学习策略/市场营销/心理学/思维方法/战略规划/教育革新/组织管理/商业哲学/沟通技巧/个人成长/幸福学/领导力/文化研究/数字社会）
+1. 根据用户问题的关键词，判断最相关的 1-2 个主题（从 20 个主题中选：AI技术/产品开发/创业管理/认知科学/学习策略/市场营销/心理学/思维方法/战略规划/教育革新/组织管理/商业哲学/沟通技巧/个人成长/幸福学/领导力/文化研究/数字社会/伦理学/工作哲学）
 2. 读对应的 `topics/主题名.md`，在其"相关观点"/"相关概念"/"相关来源"列表中找具体页面
 3. 找到最相关的页面名（最多 3 页），读取这些页面
 

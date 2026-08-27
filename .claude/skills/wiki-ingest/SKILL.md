@@ -22,8 +22,8 @@ description: 分章节阅读长书（PDF），逐章提炼洞见，最终 ingest
 
 1. **确定 PDF 路径**：
    - 若用户提供了路径或消息中包含文件附件，直接使用
-   - 若无路径：运行 `ls -t /Users/zhuqichen/Documents/WorkSpace/Asrocky01/.cc-connect/attachments/*.pdf | head -1` 取最新 PDF，**直接使用，不询问用户**
-2. 读取 wiki CLAUDE.md（`/Users/zhuqichen/Documents/WorkSpace/my-wiki/CLAUDE.md`）
+   - 若无路径：运行 `ls -t /Users/zhuqichen/MySpace/my-wiki/.cc-connect/attachments/*.pdf | head -1` 取最新 PDF，**直接使用，不询问用户**
+2. 读取 wiki CLAUDE.md（`/Users/zhuqichen/MySpace/my-wiki/CLAUDE.md`）
 3. 读 `hot.md` 获取近期上下文
 4. 读 PDF 前 5 页，获取：书名、作者、出版信息
 5. 读目录页（通常在第 2-10 页），提取章节列表和页码

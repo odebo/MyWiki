@@ -121,7 +121,7 @@ cc-connect daemon start
 
 在工作区 `.claude/skills/` 下放自定义 skill，agent 会按需调用。例如：
 - `wiki-ingest` — 书籍 PDF 结构化 ingest（5 concepts + 4 opinions + 1 source）
-- `wiki-bridge` — 对话中产生洞见后主动 ingest
+- `wiki-link` — 对话中产生洞见后主动 ingest
 
 ### 切换模型
 
